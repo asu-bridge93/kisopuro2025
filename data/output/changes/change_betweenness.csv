@@ -1,0 +1,1919 @@
+Index,Country,Betweenness Centrality Difference
+Bangkok,Thailand,38.09425619712556
+Qingdao,China,25.462019650519096
+Fangcheng Port,China,20.727368085514627
+Bahudopi,Indonesia,14.468699986886804
+Zhoushan Port,China,11.319279697435604
+Chenjiagang,China,10.538609619888803
+Chenglingji Port,China,7.046374992568531
+Lianyungang,China,6.277901709428875
+Xiuyu Port,China,6.272518549908796
+Surat Thani,Thailand,3.8743468184381555
+Huludao Port,China,1.120805852088182
+Zhangjiagang,China,0.9335332473018525
+Taicang Port,China,0.7828544074909445
+Jiangyin Port,China,0.41385407847155875
+Nantong Port,China,0.3720107562627035
+Tangshan Jingtang,China,0.3548275785553301
+Xiangzhi,China,0.3231190889605031
+Guangzhou,China,0.24914308135762298
+Bonn,Germany,0.23370128288529912
+Taizhou Port,China,0.1810506218482999
+Huanghua Port,China,0.18076725928031223
+Changshu Port,China,0.16561491849388332
+Huangpu New Port,China,0.14637971630459745
+Qinhuangdao Port,China,0.13899967675076752
+Beijiao,China,0.12589733167680173
+Bayuquan,China,0.12025063285729232
+Humen Port,China,0.11350793582938223
+Foshan New Port,China,0.09617535556098389
+Zhanjiang Port,China,0.08207161006882302
+Hong Kong,"Hong Kong, S.A.R., China",0.02717828708080905
+Lanshan Port,China,0.027178194930975508
+Xiamen Port,China,0.01538799604033414
+Qinzhou Port,China,0.004824376342630221
+Tangshan Caofeidian,China,0.00426703138242579
+Siam Seaport,Thailand,0.004183218798274879
+Yantian Port,China,0.004035089678512627
+Zhongshan Port,China,0.0037644695082551527
+Gorinchem,Netherlands,0.0029719663241551397
+Duisburg,Germany,0.0027545296538185604
+Fuzhou,China,0.0021012221776413598
+Shantou Port,China,0.0016723677021567296
+Rheinhausen,Germany,0.0008964484844942305
+Sanshui,China,0.0006169230733859415
+Moerdijk,Netherlands,0.0006071881343515384
+Yokohama,Japan,0.0005553249091008114
+Chaozhou Port,China,0.0004198972979307519
+Rotterdam,Netherlands,0.0003445412184453489
+Ceuta,Spain,0.00032950494863406843
+Tokuyamakudamatsu,Japan,0.0002831958192302947
+Liudu,China,0.00026510669858628363
+Sihanoukville,Cambodia,0.00025870260219991177
+Xinsha Port,China,0.0002485608261829711
+Emmerich,Germany,0.00020932511263889106
+Jiangmen Port,China,0.0001747772183606465
+Kinoura,Japan,0.0001642660738782357
+Zonguldak,Turkiye,0.0001443048691694218
+Saint Petersburg (Leningrad),Russia,0.000144025448626392
+Port Said,Egypt,0.00014261818737070636
+Lushun New Port,China,0.000141636861906623
+Hiroshima,Japan,0.00013694700789630004
+Izmail,Ukraine,0.00012985389263511088
+Huangxian,China,0.00012860802693000217
+Zaporizhzhia,Ukraine,0.00011014678431039288
+Bilbao,Spain,0.00010594496133232295
+Nemrut Bay,Turkiye,0.00010559247213335135
+Taizhou - Haimen,China,0.00010036637168610307
+Jorf Lasfar,Morocco,9.432276491691191e-05
+Hereke,Turkiye,9.253141932185661e-05
+Sint Eustatius,"Bonaire, St. Eustatius, Saba",9.108469409251779e-05
+Hull,U.K.,8.970835186989518e-05
+Burgas,Bulgaria,8.712027363905368e-05
+Tuzla,Turkiye,8.11960440416648e-05
+Port Everglades,U.S.A.,8.11780994019861e-05
+Cai Mep,Vietnam,7.851453170649894e-05
+Casablanca,Morocco,7.790694715346415e-05
+Mannheim,Germany,7.484185029731603e-05
+Aalborg,Denmark,7.261503507508503e-05
+Amsterdam,Netherlands,7.176724493330316e-05
+Kiel,Germany,7.09781432534605e-05
+Split,Croatia,6.782727136790158e-05
+Samsun,Turkiye,6.736584101121879e-05
+Unye,Turkiye,6.614255896582495e-05
+Weifang Port,China,6.239714271329784e-05
+Ravenna,Italy,6.201994192156241e-05
+Panama Canal,Panama,6.131537271544373e-05
+Cua Lo Port,Vietnam,5.861824264054768e-05
+Willemstad,Curacao,5.856118645666125e-05
+Sevilla,Spain,5.4927129494408006e-05
+Emden,Germany,5.3842714468137556e-05
+Eregli,Turkiye,5.2704686045033054e-05
+Odesa,Ukraine,5.0851026195381996e-05
+Vladivostok,Russia,5.0725711872416646e-05
+Mykolaiv,Ukraine,4.953246733322824e-05
+Diliskelesi,Turkiye,4.841990697863202e-05
+Providenciales,Turks & Caicos Islands,4.794035852395077e-05
+Thessaloniki,Greece,4.6731079301643753e-05
+Taranto,Italy,4.672184487567593e-05
+Reni,Ukraine,4.595195238111735e-05
+Klaipeda,Lithuania,4.571995360564372e-05
+Constanta,Romania,4.537447734231925e-05
+Ambarli,Turkiye,4.487205970041871e-05
+Aveiro,Portugal,4.4616195968990094e-05
+Bremerhaven,Germany,4.461140516347651e-05
+Veracruz,Mexico,4.460662035801104e-05
+Patimban,Indonesia,4.450629154593988e-05
+Makassar,Indonesia,4.445661802505475e-05
+Las Palmas de Gran Canaria,Spain,4.43897396871229e-05
+Krueng Geukueh,Indonesia,4.4029835395326816e-05
+Kingston,U.S.A.,4.39307349944084e-05
+Piraeus,Greece,4.289679124711704e-05
+Wenling Longmen Port,China,4.286024669509017e-05
+Terneuzen,Netherlands,4.2708291664301894e-05
+Shanghai,China,4.171773177705229e-05
+Sfax,Tunisia,4.1647606966340595e-05
+Setubal,Portugal,4.0555124950405336e-05
+"Pontianak, Kalimantan",Indonesia,3.8360909024520023e-05
+Al Hamriyah,United Arab Emirates,3.833779243367103e-05
+Dumyat (Damietta),Egypt,3.7683281809509916e-05
+Volos,Greece,3.7403532611180075e-05
+Immingham,U.K.,3.631835802597738e-05
+Saint Croix,"Virgin Islands, American",3.573066131173572e-05
+Viana do Castelo,Portugal,3.527261205413506e-05
+Sohar,Oman,3.5209146779442355e-05
+Berbera,Somali Republic,3.4685461633676934e-05
+Bartin,Turkiye,3.3927123396357804e-05
+Tripoli,Lebanon,3.3796098920779553e-05
+Long Point Nevis,St. Kitts-Nevis,3.3787709886462514e-05
+Yangpu Port,China,3.3343498820746775e-05
+Sousse,Tunisia,3.310974495072906e-05
+"Tanjung Perak, Surabaya",Indonesia,3.3024349122530786e-05
+Bremen,Germany,3.2594790543645676e-05
+Sokhna Port,Egypt,3.2132350449177744e-05
+Vlissingen,Netherlands,3.199555426695172e-05
+Tanger Med,Morocco,3.1936189779075905e-05
+Nuuk (Godthaab),Greenland,3.096565816655336e-05
+Gdansk,Poland,3.075119655810213e-05
+Karasu,Turkiye,3.0579683431381996e-05
+Funabashi,Japan,3.006118845536379e-05
+"Bima, Sb",Indonesia,2.9918746774654573e-05
+Gibraltar,U.S.A.,2.9757726709270065e-05
+Lubmin,Germany,2.9555123583181568e-05
+Liepaja,Latvia,2.9441110876463235e-05
+Belfast,U.K.,2.88918804425488e-05
+Alesund,Norway,2.8502765831482126e-05
+Bandirma,Turkiye,2.8103409966953423e-05
+Fowey,U.K.,2.788140334589271e-05
+Manila,Philippines,2.7131296084297388e-05
+Dunkerque,France,2.6399382353718e-05
+Bejaia,Algeria,2.6033055234917727e-05
+Montevideo,Uruguay,2.5785119840182873e-05
+Evergem,Belgium,2.5769448580376976e-05
+Hakata/Fukuoka,Japan,2.5465975279623243e-05
+Porto Nogaro,Italy,2.4129857008786323e-05
+Colon,Panama,2.3968825842656492e-05
+Castellon de la Plana,Spain,2.3879164060458882e-05
+Brest,France,2.3671394710574403e-05
+Dakar,Senegal,2.3439808751280454e-05
+Mariupol,Ukraine,2.3257942340760597e-05
+Van Phong,Vietnam,2.3189498263448578e-05
+Martas,Turkiye,2.308018780490962e-05
+Harlingen,Netherlands,2.2992701313766066e-05
+Tanjung Priok,Indonesia,2.2986862909323003e-05
+Narsaq,Greenland,2.2780700851752957e-05
+Khor al Fakkan,United Arab Emirates,2.2590572711417636e-05
+Brunsbuttel,Germany,2.247884203363925e-05
+Coatzacoalcos,Mexico,2.2471656484058123e-05
+Suva,Fiji,2.2371304616147607e-05
+Dubrovnik,Croatia,2.1978485141255916e-05
+Miami,U.S.A.,2.174222734810643e-05
+Liverpool,Canada,2.1520193672495275e-05
+Mariel,Cuba,2.1150558809734325e-05
+Safi,Morocco,2.0969933554160214e-05
+Leixoes,Portugal,2.0951846511813726e-05
+Galati,Romania,2.0813660940623147e-05
+Abu Kir,Egypt,2.0737220890122005e-05
+Ukkusissat,Greenland,2.073421940133619e-05
+Delfzijl,Netherlands,2.0682068903731844e-05
+Bunyu,Indonesia,2.04586251218589e-05
+Alger (Algiers),Algeria,2.038111911039503e-05
+Chittagong (Chattogram),Bangladesh,2.028702139306171e-05
+Izmir,Turkiye,2.0281594489378763e-05
+Algeciras,Spain,2.016172903698257e-05
+Larnaca,Cyprus,2.0016333554521114e-05
+Emmelsum,Germany,1.9820061489790076e-05
+Zeebrugge,Belgium,1.9589171150509975e-05
+Esbjerg,Denmark,1.947094846656717e-05
+Ilulissat (Jakobshavn),Greenland,1.929507051780981e-05
+Philipsburg,St. Maarten,1.929096571101803e-05
+Kreekkrak,Netherlands,1.9251966752946437e-05
+Agadir,Morocco,1.912040985006195e-05
+Southampton,Bermuda,1.8951890251184527e-05
+Port Purcell,"Virgin Islands, British",1.8795627269341773e-05
+La Coruna (A Coruna),Spain,1.878801994532539e-05
+Arinaga,Spain,1.838066468017388e-05
+Cuxhaven,Germany,1.8328994701485857e-05
+Nijmegen,Netherlands,1.8204141203484632e-05
+Monfalcone,Italy,1.8174723036284632e-05
+"Freeport, Grand Bahama",Bahamas,1.7996598866971796e-05
+Cape Town,South Africa,1.7872757297596534e-05
+Wuhu Port,China,1.7791954704876427e-05
+Gemlik,Turkiye,1.7713325695222458e-05
+Arzew,Algeria,1.7702418435414872e-05
+Varna,Bulgaria,1.7628151201508346e-05
+Reykjavik,Iceland,1.7430111965588413e-05
+Cartagena Port,Colombia,1.7429960416317884e-05
+El Bluff,Nicaragua,1.739660040111276e-05
+Napoli,Italy,1.73932551417017e-05
+Palm Beach,U.S.A.,1.7368409195151098e-05
+Greenore,Republic of Ireland,1.719276352461687e-05
+Beauharnois Lock,Canada,1.710645410563181e-05
+Dikili,Turkiye,1.7050045852460075e-05
+Bingazi (Benghazi),Libya,1.703441846177215e-05
+Hareid,Norway,1.6935407549161126e-05
+Basseterre,St. Kitts-Nevis,1.6836391339397194e-05
+Rostock,Germany,1.6757419557668178e-05
+Tuapse,Russia,1.6607280053613192e-05
+Nghi Son,Vietnam,1.6607131929546584e-05
+Qeqertarsuaq (Godhavn),Greenland,1.6572121200877747e-05
+Matadi,Congo,1.642894697510139e-05
+Nordenham,Germany,1.6322860715428655e-05
+San Juan,Puerto Rico,1.6066311963970625e-05
+Zarzis,Tunisia,1.606616745830321e-05
+Poti,Georgia,1.6004959265887662e-05
+Ikerasak,Greenland,1.598494360574576e-05
+Georgetown,U.S.A.,1.5821478948618677e-05
+Willebroek,Belgium,1.5794769241283483e-05
+Lisbon,Portugal,1.5793103462515522e-05
+Ube,Japan,1.5716758605521103e-05
+Charleston,U.S.A.,1.570368432917031e-05
+Hamburg,Germany,1.5682993363406658e-05
+Mellitah (Qasr Ahmed),Libya,1.5438765024357228e-05
+Santander,Spain,1.5435372789951744e-05
+Kalymnos,Greece,1.5397522630921506e-05
+Jeddah,Saudi Arabia,1.5397026633210287e-05
+Yalova,Turkiye,1.484212789747228e-05
+Townsville,Australia,1.480760228108344e-05
+La Spezia,Italy,1.4640000521153875e-05
+Yarimca,Turkiye,1.4613534698414577e-05
+Yanbu Commercial Port,Saudi Arabia,1.445635766011993e-05
+Barcadera,Aruba,1.437933154670233e-05
+Puerto Plata,Dominican Republic,1.3994159392387122e-05
+Koper,Slovenia,1.3903330120274004e-05
+Novorossiysk,Russia,1.3777380666383371e-05
+Santo Domingo,Dominican Republic,1.3759939089507886e-05
+Malmo,Sweden,1.3585018432329e-05
+Ormoc,Philippines,1.3486455898758902e-05
+Mostaganem,Algeria,1.3415470584925756e-05
+Wismar,Germany,1.3277817328065811e-05
+Ponta Delgada,Portugal,1.310436853642176e-05
+Nouadhibou,Mauritania,1.2960414956942517e-05
+Beirut,Lebanon,1.2909144563358864e-05
+Rota-Izmit Bay,Turkiye,1.2905308005064717e-05
+Huelva,Spain,1.2569506596100174e-05
+Glomfjord,Norway,1.2559347301278976e-05
+Dordrecht,Netherlands,1.2345230068811636e-05
+Riga,Latvia,1.2242112509052838e-05
+Durban,South Africa,1.2091556761554493e-05
+Varberg,Sweden,1.2074869725183304e-05
+Chalkis,Greece,1.1951438732435427e-05
+Kobe,Japan,1.1936520097918443e-05
+Holtenau,Germany,1.184202425621745e-05
+Port-of-Spain,Trinidad & Tobago,1.134732782054294e-05
+Augusta,Australia,1.128848749465481e-05
+Vostochnyy Port,Russia,1.1273536939649005e-05
+Oldenburg,Germany,1.1266727727620579e-05
+Heiligenhafen,Germany,1.1256867348297638e-05
+Worth am Rhein,Germany,1.1185372713916515e-05
+"Bintulu, Sarawak",Malaysia,1.1152897192633505e-05
+Barletta,Italy,1.1099133229887717e-05
+Sauda,Norway,1.1075800723792106e-05
+Belize City,Belize,1.1074741713785682e-05
+Vancouver,Canada,1.1036957373880552e-05
+"Bontang, Kl",Indonesia,1.0978880971287703e-05
+"Kupang, Timor",Indonesia,1.0843092505815038e-05
+Durres,Albania,1.0794857243092652e-05
+Manzanillo,Panama,1.0744006859948405e-05
+Fos-sur-Mer,France,1.071537467562441e-05
+Tokyo,Japan,1.0696592557523157e-05
+Lemmer,Netherlands,1.06605886990652e-05
+Qaqortoq (Julianehaab),Greenland,1.0587880205942691e-05
+Vigo,Spain,1.048687094620999e-05
+Le Havre,France,1.0327488774133226e-05
+Den Helder,Netherlands,1.0326683934969594e-05
+Londonderry,U.K.,1.0311601949209055e-05
+Koodoo Fisheries,Maldives,1.0225441628584388e-05
+Vis,Croatia,1.019222931119678e-05
+Balikpapan,Indonesia,1.0062935202080191e-05
+Kherson,Ukraine,1.0019446023791685e-05
+Djen Djen,Algeria,1.0018542219850926e-05
+Tsuruga,Japan,9.923758869460984e-06
+Haiphong,Vietnam,9.836040814855881e-06
+Helsingborg,Sweden,9.721012891742223e-06
+Santo Tomas de Castilla,Guatemala,9.715411699857783e-06
+Oosterhout,Netherlands,9.6889822593124e-06
+Vasilikos,Cyprus,9.676099636930129e-06
+La Paz,Mexico,9.621929410802681e-06
+West Palm Beach,U.S.A.,9.527313039076925e-06
+Thisvi Port,Greece,9.508632265353874e-06
+Asaluyeh,Iran,9.429008991145536e-06
+Ostseebad Kuhlungsborn,Germany,9.427365081277062e-06
+Tampico,Mexico,9.400010623076323e-06
+Karachi,Pakistan,9.358276425575247e-06
+Tilbury,U.K.,9.347196268305472e-06
+Sharjah/Khalid,United Arab Emirates,9.339527237161183e-06
+Lafito Port,Haiti,9.173519461513641e-06
+Tarawa,Kiribati,9.148750642553813e-06
+Salalah,Oman,9.037069564359849e-06
+Honolulu,U.S.A.,9.024431560409208e-06
+Songxia Port,China,8.92926660372561e-06
+Rio Grande,Brazil,8.922136554631718e-06
+Cadiz,Spain,8.917388706261185e-06
+Hibikinada,Japan,8.891874433275809e-06
+Iskenderun,Turkiye,8.844513124077556e-06
+Sigave,Wallis & Futuna,8.814113315862987e-06
+Charlotte Amalie/St Thomas,"Virgin Islands, American",8.77679851449709e-06
+Ipswich,U.K.,8.72555039589315e-06
+Arbatax,Italy,8.709994890123817e-06
+San Antonio,Paraguay,8.569409500559268e-06
+El Dekheila,Egypt,8.459959013999989e-06
+Raha,Indonesia,8.423983842255952e-06
+Horsens,Denmark,8.412929262795145e-06
+Wilhelmshaven,Germany,8.401611573329634e-06
+Kinuura,Japan,8.350011659712976e-06
+Kimbe,Papua New Guinea,8.301556494285387e-06
+Opatija,Croatia,8.29169647639902e-06
+"Tegal, Java",Indonesia,8.290419014003823e-06
+King Abdullah Port,Saudi Arabia,8.279402254572459e-06
+Newport,U.S.A.,8.246541141505685e-06
+Alicante,Spain,8.201720288654457e-06
+Karlsruhe,Germany,8.20064015958407e-06
+Orkanger,Norway,8.005440690747839e-06
+Grundartangi,Iceland,7.997139344724166e-06
+Chioggia,Italy,7.944157632483635e-06
+Gladstone,Australia,7.9050687509458e-06
+Szczecin,Poland,7.890766614689786e-06
+Teesport,U.K.,7.87927519097691e-06
+Bergen,Norway,7.86822973692443e-06
+Douala,Cameroon,7.83724944976381e-06
+Scrabster,U.K.,7.748836178015197e-06
+Tenes,Algeria,7.701957682557537e-06
+Gijon,Spain,7.698850947831506e-06
+Kappeln,Germany,7.68510100590189e-06
+Narsarsuaq,Greenland,7.68220013166402e-06
+Port-au-Prince,Haiti,7.662268793197629e-06
+Buchanan,U.S.A.,7.646025157310304e-06
+Zamboanga,Philippines,7.636435005263682e-06
+Buenos Aires,Argentina,7.5805777298739016e-06
+Conakry,Guinea,7.5795202358147845e-06
+Trabzon,Turkiye,7.574987903278597e-06
+Gabes,Tunisia,7.557604876702161e-06
+Mamonal,Colombia,7.552978248512874e-06
+Slite,Sweden,7.529580745255747e-06
+Vyborg,Russia,7.511692947901184e-06
+Marina di Carrara,Italy,7.507510073883001e-06
+Callao,Peru,7.4980533545771465e-06
+Datteln,Germany,7.422454212044479e-06
+"Johor, Pasir Gudang",Malaysia,7.415452498619286e-06
+Apra (Agana),Guam,7.40522224676834e-06
+Rama,Nicaragua,7.369193970926469e-06
+Colombo,Sri Lanka,7.361440665606435e-06
+Tuticorin,India,7.3514452196655556e-06
+Tekirdag,Turkiye,7.303939492479426e-06
+Port Rashid,United Arab Emirates,7.1862062195090885e-06
+Gdynia,Poland,7.151783430914705e-06
+Tanjung Pelepas,Malaysia,7.146357375139006e-06
+Orlivka,Ukraine,7.1166870994174465e-06
+Paamiut (Fredrikshaab),Greenland,7.111325456638819e-06
+Moss,Norway,7.102919445194826e-06
+Kaliningrad,Russia,7.064390025410608e-06
+Haaften,Netherlands,7.063944043616361e-06
+Gent (Ghent),Belgium,7.042248658227328e-06
+Bizerte,Tunisia,7.036348091714719e-06
+Banjul,Gambia,7.034872966889044e-06
+IJmuiden/Velsen,Netherlands,6.986069204893827e-06
+Benteng,Indonesia,6.9631384632990075e-06
+Barrio Caacupe Mi,Paraguay,6.9478916666748354e-06
+Brake,Germany,6.943707140713963e-06
+Mo i Rana,Norway,6.931319132991685e-06
+Qui Nhon,Vietnam,6.892957237639077e-06
+Nantes,France,6.8577656863111e-06
+"Amamapare, Ij",Indonesia,6.827207384662876e-06
+Batu Ampal,Indonesia,6.781412585758501e-06
+Plymouth,U.K.,6.78030362193311e-06
+Guayaquil,Ecuador,6.7764924209691305e-06
+Phu My,Vietnam,6.705811721074116e-06
+Zhaoqing Port,China,6.647706510869156e-06
+Vitoria Port,Brazil,6.619267487897743e-06
+Puerto Cortes,Honduras,6.538249960526179e-06
+Akureyri,Iceland,6.432702179693089e-06
+Hugh Town,U.K.,6.430238427651298e-06
+Iroquois Lock,Canada,6.426851716785989e-06
+Ellesmere Port,U.K.,6.39877354411322e-06
+Risavika,Norway,6.3717806653626734e-06
+Tobelo,Indonesia,6.361329868796641e-06
+Qasigiannguit (Christianshaab),Greenland,6.332244415651949e-06
+Kunda,Estonia,6.320250573374096e-06
+Bari,Italy,6.3136591845792955e-06
+Aqaba,Jordan,6.218530425080053e-06
+Godau,Vietnam,6.184819831964693e-06
+Skelleftehamn,Sweden,6.156285622238751e-06
+Halifax,Canada,6.1244460061395025e-06
+Dublin,Republic of Ireland,6.098086018107305e-06
+Ronne,Denmark,6.082029053065645e-06
+Tobruk,Libya,5.935638560760573e-06
+Port de Fort-de-France,Martinique,5.91852866250824e-06
+Cebu,Philippines,5.909147576104671e-06
+La Guaira,Venezuela,5.905889936587698e-06
+Faeringehavn,Greenland,5.89754594848774e-06
+Petropavlovsk-Kamchatskiy,Russia,5.8902276531848635e-06
+Buenaventura,Colombia,5.8190504836981745e-06
+Praia,Cape Verde,5.809781457404278e-06
+Mina Khalifa/Abu Dhabi,United Arab Emirates,5.808024440182567e-06
+Oakland,U.S.A.,5.783101900591354e-06
+Bushehr,Iran,5.777167502565172e-06
+Valenciennes,France,5.7578731297847335e-06
+Houston,U.S.A.,5.668445409286616e-06
+Aden,Yemen,5.643581981719273e-06
+Rota,Spain,5.621887277104795e-06
+Puerto Cabello,Venezuela,5.621468242397905e-06
+Tasiilaq,Greenland,5.610181740029786e-06
+Jacksonville,U.S.A.,5.5926396926654935e-06
+Oulu (Uleaborg),Finland,5.5070130698263355e-06
+Rauma (Raumo),Finland,5.366987509324668e-06
+Nassau,Bahamas,5.31700104911036e-06
+Salem,U.S.A.,5.30821784019476e-06
+Banshancun,China,5.296861996019172e-06
+Oita,Japan,5.258041010986012e-06
+Runavik,Faroe Islands,5.245083930137872e-06
+Kampung Tanjung Langsat,Malaysia,5.177653153188959e-06
+Essen,Germany,5.159563680177427e-06
+"Georgetown, Grand Cayman",Cayman Islands,5.137305013108414e-06
+Port Kembla,Australia,5.117616338175604e-06
+Itajai,Brazil,5.104486262946274e-06
+"Gorontalo, Sulawesi",Indonesia,5.098421320790794e-06
+Limassol,Cyprus,5.094493490036137e-06
+Puerto Sara,Paraguay,5.0665245172582625e-06
+Tromso,Norway,5.0648165652673795e-06
+Hanstholm,Denmark,5.051948655112855e-06
+Thorold,Canada,5.0504337220078944e-06
+Rochefort,France,5.011936461454792e-06
+"Bacolod, Negros",Philippines,5.010124715612791e-06
+Swinoujscie,Poland,4.959005339284913e-06
+Zwijndrecht,Netherlands,4.957561108714925e-06
+Yangon,Myanmar,4.955518496052146e-06
+Nueva Palmira,Uruguay,4.935621268624185e-06
+Krilo Jesenice,Croatia,4.889270342606808e-06
+Vestnes,Norway,4.84218568670724e-06
+Valleyfield,Canada,4.8389557858468e-06
+Ardrossan,Australia,4.838675816865208e-06
+Abenra,Denmark,4.838490533453765e-06
+Kluisbergen,Belgium,4.832910157295638e-06
+Paramaribo,Suriname,4.816595697865536e-06
+Rushan,China,4.794319570461478e-06
+Pomena,Croatia,4.780571012351787e-06
+Romano Port,Albania,4.759451693741451e-06
+Goteborg,Sweden,4.742585373313695e-06
+Taizhou,China,4.742267379865498e-06
+Owendo,Gabon,4.69986086992411e-06
+Sakaiminato,Japan,4.696066488410044e-06
+Portland,Australia,4.690037060377347e-06
+Canical,Portugal,4.652197734168187e-06
+Mombasa,Kenya,4.625428310426477e-06
+Mundra,India,4.587809446019884e-06
+Jiujiang Port,China,4.586206501078173e-06
+Sete,France,4.571843790874175e-06
+Sassnitz,Germany,4.556032307463523e-06
+Ostend (Oostende),Belgium,4.539820383380171e-06
+Walvis Bay,Namibia,4.505867829851626e-06
+Haifa,Israel,4.492746886416684e-06
+Ploce,Croatia,4.486166574140275e-06
+Skagen,Denmark,4.455991027449771e-06
+Gavle,Sweden,4.45520925393926e-06
+Meggett,U.S.A.,4.345550230463053e-06
+Genova,Italy,4.340055870533273e-06
+Giurgiulesti,Moldova,4.327153489488956e-06
+Santiago de Cuba,Cuba,4.32010979762947e-06
+Middlesbrough,U.K.,4.289584717873064e-06
+Sisimiut (Holsteinsborg),Greenland,4.276590997555037e-06
+Saint John's,Antigua & Barbuda,4.266136784979993e-06
+Werkendam,Netherlands,4.261668527010096e-06
+Atucha,Argentina,4.255694938245505e-06
+Chah Bahar,Iran,4.24089175589718e-06
+Pengerang,Malaysia,4.233021375542583e-06
+Villeta,Paraguay,4.2306818734765515e-06
+Leirvik,Faroe Islands,4.222271671321196e-06
+Saint-Barthelemy,St. Barthelemy,4.187138239889051e-06
+Santo,Vanuatu,4.1779775367301215e-06
+Roscoff,France,4.130543251113449e-06
+Ho Chi Minh City,Vietnam,4.128714416410523e-06
+Acajutla,El Salvador,4.0998627141087315e-06
+Djibouti,Djibouti,4.092658695740775e-06
+Bagendang,Indonesia,4.089271191462605e-06
+Al Adabiyah,Egypt,4.085139101774613e-06
+Sodertalje,Sweden,4.072214975910375e-06
+Portsmouth,Dominica,4.049339813402353e-06
+Heijen,Netherlands,4.0222872414350744e-06
+Puerto Brisa,Colombia,4.002531862804361e-06
+Bridgetown,Barbados,3.999600666032403e-06
+Salerno,Italy,3.975516339890523e-06
+"Belawan, Sumatra",Indonesia,3.953416324708656e-06
+Finnfjord,Norway,3.9403049861078945e-06
+Aarhus,Denmark,3.933524596493e-06
+Harelbeke,Belgium,3.89279360239476e-06
+Hamad,Qatar,3.878565435800523e-06
+Paranagua,Brazil,3.870134379198309e-06
+Rouen,France,3.849022638166728e-06
+Oran Dry Port,Algeria,3.840862966394216e-06
+Sonderborg,Denmark,3.839162278797606e-06
+Nador,Morocco,3.834739074241454e-06
+San Vicente,Chile,3.813705480911183e-06
+Los Angeles,U.S.A.,3.8066167444564735e-06
+Noumea,New Caledonia,3.788295538932531e-06
+Port Melbourne,Australia,3.786927390067715e-06
+Marin,Spain,3.7801287470493115e-06
+Great Yarmouth,U.K.,3.7565440082243688e-06
+San Lorenzo - San Martin,Argentina,3.741618820316743e-06
+Vopnafjordur,Iceland,3.7174475490003335e-06
+Icdas Port,Turkiye,3.686271101961008e-06
+Tau,Norway,3.655588353756534e-06
+Aviles,Spain,3.6315683002502083e-06
+Lajes Das Flores,Portugal,3.6283064333067754e-06
+Skikda,Algeria,3.5967756033228023e-06
+Kobenhavn,Denmark,3.590316448677522e-06
+Tampa,U.S.A.,3.588971862815058e-06
+Bullenbaai,Curacao,3.579506064142605e-06
+Limas,Turkiye,3.5686260999169377e-06
+Rizhao Port,China,3.5655035618837845e-06
+Reydarfjordur,Iceland,3.5619253208874196e-06
+Itaguai Port,Brazil,3.5544785463926306e-06
+Bacong,Philippines,3.5489397598228306e-06
+Khorramshahr,Iran,3.541396407495071e-06
+Berlin,Germany,3.5391971669698112e-06
+Thorshavn,Faroe Islands,3.529282265145881e-06
+Oristano,Italy,3.5285577629396055e-06
+Strande,Germany,3.519234889953738e-06
+"Ende, Flores",Indonesia,3.506506491010716e-06
+Tacoma,U.S.A.,3.4207275338899758e-06
+Egersund,Norway,3.4085946912978797e-06
+Montreal,Canada,3.3882228584062105e-06
+Umm Qasr Port,Iraq,3.3800127892868667e-06
+Tuxpan,Mexico,3.3716950422860463e-06
+Moa,Cuba,3.364089641582084e-06
+Selat Panjang,Indonesia,3.359181559909989e-06
+Ampelakia,Greece,3.3283350900885226e-06
+Barrow in Furness,U.K.,3.322006021966393e-06
+Benicarlo,Spain,3.2937172491788024e-06
+Lyness,U.K.,3.2683405925323233e-06
+Stokmarknes,Norway,3.2591495852595746e-06
+Aasiaat (Egedesminde),Greenland,3.2467426392564485e-06
+Saumlaki,Indonesia,3.2446344108943807e-06
+Shipu,China,3.241227251398436e-06
+Haldia,India,3.2331897426433106e-06
+Gouda,Netherlands,3.226413294336525e-06
+Stavanger,Norway,3.226413294336525e-06
+Campbeltown,U.K.,3.226413294336525e-06
+Kijang,Indonesia,3.226413294336525e-06
+Douarnenez,France,3.226413294336525e-06
+San Nicolas de los Arroyos,Argentina,3.226413294336525e-06
+Port Colborne,Canada,3.2241544782344797e-06
+Aber Wrac'h,France,3.2241544782344797e-06
+Hafnarfjordur,Iceland,3.2200418707934667e-06
+Isafjordur - hofn,Iceland,3.219636846029956e-06
+Minden,Germany,3.219636846029956e-06
+Batumi,Georgia,3.2170122822440354e-06
+Burgstaaken,Germany,3.21286039772317e-06
+Komatsushima,Japan,3.208342765518863e-06
+Port Hedland,Australia,3.2072133574678405e-06
+Gelsenkirchen,Germany,3.2068584006519473e-06
+Grimsby,U.K.,3.206801407277843e-06
+Simrishamn,Sweden,3.201566317212294e-06
+Masbate,Philippines,3.1947898689055083e-06
+Bula,Indonesia,3.1687648674597405e-06
+Souda,Greece,3.1513886669875483e-06
+Bayonne,U.S.A.,3.1494862352390634e-06
+Recife,Brazil,3.131202813639873e-06
+Long Beach,U.S.A.,3.128702759890023e-06
+Felixstowe,U.K.,3.1284603015615435e-06
+Fusa,Norway,3.118790675912418e-06
+Wakayama,Japan,3.1157313053282922e-06
+Progreso,Mexico,3.0943253384563513e-06
+Samut Sakhon,Thailand,3.091705988357823e-06
+Trapani,Italy,3.08617164141399e-06
+Vejle,Denmark,3.0841078798974925e-06
+Primorsk (Koivisto),Russia,3.0837810252833716e-06
+Messina,Italy,3.0581034421230417e-06
+Thorshofn,Iceland,3.0565497348415574e-06
+Sal Rei,Cape Verde,3.0457080061596902e-06
+Grangemouth,U.K.,3.0381076574731805e-06
+Cilacap (Tjilatjap),Indonesia,2.990743481005951e-06
+Rendsburg,Germany,2.988239874481978e-06
+Venlo,Netherlands,2.9852554783039846e-06
+Kalundborg,Denmark,2.961540083138152e-06
+Al Khums,Libya,2.957616186108911e-06
+Urk,Netherlands,2.9527966029792947e-06
+Nea Moudhania,Greece,2.9248943315229696e-06
+Kokkola (Karleby),Finland,2.9242526650739365e-06
+Pyeongtaek,South Korea,2.92259535799623e-06
+Gioia Tauro,Italy,2.9206492201582163e-06
+Innaarsuit,Greenland,2.913909767519678e-06
+Saraylar,Turkiye,2.9017961729051428e-06
+Saint-Nazaire,France,2.8845696982026563e-06
+Scapa,U.K.,2.881177352143105e-06
+Groix,France,2.8713102451152902e-06
+Point Lisas,Trinidad & Tobago,2.864300362402639e-06
+San Lorenzo,Honduras,2.85161038578066e-06
+Sagunto,Spain,2.8420424198013117e-06
+Livorno,Italy,2.834096750413081e-06
+Chongming,China,2.8328359881948234e-06
+Gaeta,Italy,2.8295791182086655e-06
+Drammen,Norway,2.8183516945826624e-06
+"Tarakan, Kalimantan",Indonesia,2.8033445099895533e-06
+Pilar,Paraguay,2.802038490097602e-06
+Luanda,Angola,2.7946012801761217e-06
+Floro,Norway,2.788068501780299e-06
+Arroyo Barril,Dominican Republic,2.7796884511283894e-06
+Tottori,Japan,2.759660768743722e-06
+Valencia,Spain,2.7494183292261012e-06
+Lubeck,Germany,2.7350144036665395e-06
+Cozumel,Mexico,2.7277340568618476e-06
+Tokachi,Japan,2.7185627838908566e-06
+Semarang,Indonesia,2.695165108646848e-06
+Sawakin,Sudan,2.681628219283164e-06
+Ventspils,Latvia,2.6631441845062108e-06
+Harstad,Norway,2.65713961321377e-06
+Kraljevica,Croatia,2.654414375582721e-06
+Satsumasendai,Japan,2.6423843648696503e-06
+Laurium (Lavrion),Greece,2.6134502302575867e-06
+Maashees,Netherlands,2.6086682759534274e-06
+Hannover,Germany,2.6038695084029976e-06
+Pasajes,Spain,2.6010970492839442e-06
+Svelgen,Norway,2.5832301600415913e-06
+Magdeburg,Germany,2.5816348717754662e-06
+Norrkoping,Sweden,2.5536802816529774e-06
+Eddystone,U.S.A.,2.550329765534738e-06
+Valletta,Malta,2.5468662475113565e-06
+Vannes,France,2.5162071958940557e-06
+"Mishima, Kawanoe",Japan,2.5135924406421116e-06
+Kolonodale,Indonesia,2.5021039752595384e-06
+Muuga,Estonia,2.4940726579329134e-06
+Big Creek,Belize,2.4920308546382236e-06
+Santa Cruz de Tenerife,Spain,2.4772038062638273e-06
+Sundsvall,Sweden,2.469432734375195e-06
+Trieste,Italy,2.4682861954452087e-06
+Brindisi,Italy,2.467293250408252e-06
+Newhaven,U.K.,2.465426029776721e-06
+Marseille,France,2.444965689163013e-06
+"Baubau, Butung",Indonesia,2.432830507752108e-06
+Papeete,French Polynesia,2.4279790689327478e-06
+Lazaro Cardenas,Mexico,2.4133846088629247e-06
+"Tacloban, Leyte",Philippines,2.3979553229772034e-06
+Port Moresby,Papua New Guinea,2.3741229430295375e-06
+Torrevieja,Spain,2.35296892064224e-06
+Altenlingen,Germany,2.3367021381128688e-06
+Averoy,Norway,2.3350541652156177e-06
+"Plaju, Sumatra",Indonesia,2.312310230802501e-06
+"Labuan, Sabah",Malaysia,2.280830296943733e-06
+Haren/Ems,Germany,2.2763959758880957e-06
+Tetney Terminal,U.K.,2.274623561035027e-06
+Hamm,Germany,2.2696195275814183e-06
+Itapoa,Brazil,2.269394257376205e-06
+Tulcea,Romania,2.264895283417745e-06
+Kandla/Deendayal,India,2.263773328155488e-06
+Olbia,Italy,2.2499686236325945e-06
+Kumai,Indonesia,2.228971669870276e-06
+Mejillones,Chile,2.225991522942323e-06
+Fredericia,Denmark,2.2003556303538865e-06
+Kotka,Finland,2.199369425691898e-06
+Onne,Nigeria,2.1905197638788596e-06
+Yuzhnyi,Ukraine,2.1817324591742304e-06
+Sines,Portugal,2.1807252933786427e-06
+Ushuaia,Argentina,2.1776724671322342e-06
+Kalilimenes,Greece,2.1755741615727634e-06
+Marsden Point,New Zealand,2.1752990005605155e-06
+Eydehavn,Norway,2.1709092243878516e-06
+Borkum,Germany,2.1651107399850433e-06
+Cai Lan,Vietnam,2.157408518221177e-06
+Duqm,Oman,2.1565236655360755e-06
+Madang,Papua New Guinea,2.1475601469133146e-06
+Puerto Bolivar,Ecuador,2.1427720081475753e-06
+Las Calderas,Dominican Republic,2.140744108996564e-06
+Sao Vincent,Cape Verde,2.1387893713325666e-06
+Jelsa,Norway,2.136122574830082e-06
+Posorja,Ecuador,2.1359900201510973e-06
+Corpus Christi,U.S.A.,2.1299805209332385e-06
+Hachinohe,Japan,2.128711279224759e-06
+Inkoo (Inga),Finland,2.1263731199561826e-06
+Sidney,Canada,2.1112755977057427e-06
+Genemuiden,Netherlands,2.107030017703057e-06
+'s-Gravendeel,Netherlands,2.08471308749586e-06
+Hvar,Croatia,2.07396714765537e-06
+Korcula,Croatia,2.07396714765537e-06
+Daneborg,Greenland,2.066673182719804e-06
+Saint-Malo,France,2.060272519408804e-06
+Apia,Samoa,2.0531500249627377e-06
+Nanortalik,Greenland,2.041252298537249e-06
+Suape,Brazil,2.0341986053474333e-06
+Karmsund Havn,Norway,2.0318050839383394e-06
+Savannah,U.S.A.,2.0214066495935013e-06
+Sugozu,Turkiye,2.0162286520608835e-06
+Salvador,Brazil,2.0058321995069703e-06
+Degrad des Cannes,French Guiana,1.998178547886698e-06
+Harwich,U.K.,1.994534618251885e-06
+Rethymnon,Greece,1.986629726787823e-06
+Kuantan (Tanjong Gelang),Malaysia,1.9804609766092655e-06
+Dourges,France,1.979352539312944e-06
+Horten,Norway,1.970318789363461e-06
+Gelendzik,Russia,1.960926661531134e-06
+Asper,Belgium,1.959020175930587e-06
+Oostendam,Netherlands,1.950159481944381e-06
+Arnhem,Netherlands,1.948656623677891e-06
+Manfredonia,Italy,1.9448406640032608e-06
+Niteroi,Brazil,1.9421320487092095e-06
+Da Nang,Vietnam,1.941400812645322e-06
+Marl,Germany,1.939044454619303e-06
+Cotonou,Benin,1.9343879109183786e-06
+Holmsund,Sweden,1.9290289512877796e-06
+Bade,Indonesia,1.925699150253377e-06
+Patras,Greece,1.9158880048644224e-06
+Darwin,Australia,1.912499780711138e-06
+Fujairah,United Arab Emirates,1.905723332404569e-06
+Paita,Peru,1.8988769238871984e-06
+Puerto Morelos,Mexico,1.8865233955357762e-06
+Larvik,Norway,1.8820378740658152e-06
+Warrenpoint,U.K.,1.8788534969402487e-06
+Vizhinjam,India,1.8753010608108618e-06
+Rostov-na-Donu,Russia,1.874935610672395e-06
+Altamira,Brazil,1.8662321649867513e-06
+Sao Pedro da Afurada,Portugal,1.853281656854426e-06
+Lautoka,Fiji,1.8402240894656481e-06
+Larantuka,Indonesia,1.8377230193397957e-06
+New York,U.S.A.,1.8311824010315515e-06
+Arica,Colombia,1.8266647688272445e-06
+Kanazawa,Japan,1.8168237345882144e-06
+Barranquilla,Colombia,1.8142848219327963e-06
+Dumaguete,Philippines,1.8082177706592057e-06
+Oss,Netherlands,1.800352266490544e-06
+Castries,St. Lucia,1.7995589756007518e-06
+Rayong,Thailand,1.796064832588172e-06
+Caen,France,1.7839575502034011e-06
+Oxelosund,Sweden,1.7785121728196946e-06
+Horta,Portugal,1.765048127167542e-06
+Knarrevik,Norway,1.7628420031106685e-06
+Haarlem,Netherlands,1.7628272592379876e-06
+Luwuk,Indonesia,1.758027445233944e-06
+Stylis (Stylida),Greece,1.7557526978595386e-06
+Batulicin,Indonesia,1.75558380739369e-06
+Kolaka,Indonesia,1.7477108692560061e-06
+Lome,Togo,1.7476062052498116e-06
+Kralendijk,"Bonaire, St. Eustatius, Saba",1.7464210797040434e-06
+Dudinka,Russia,1.742876985219577e-06
+Santa Panagia,Italy,1.741447605698148e-06
+Guaranao,Venezuela,1.7391515270856158e-06
+Isle of Grain,U.K.,1.7388793879342598e-06
+Zanzibar,Tanzania,1.7363121247388272e-06
+Adamas Milos,Greece,1.7345184422896216e-06
+"Noro, New Georgia",Solomon Islands,1.7171121878700344e-06
+Kalbut Situbondo,Indonesia,1.7139121983918842e-06
+Panama City,U.S.A.,1.7137239637166415e-06
+Saattut,Greenland,1.7123915869213225e-06
+Port-la-Nouvelle,France,1.7077464491820223e-06
+Greenock,U.K.,1.7046886993078107e-06
+Kiritimati,Kiribati,1.7001710671033952e-06
+Binhai,China,1.6976641530026077e-06
+Rorvik,Norway,1.6930311753960716e-06
+Pointe Noire,Canada,1.6915544577611246e-06
+Heroya,Norway,1.6898889711501955e-06
+Gager,Germany,1.6850768122490475e-06
+Mata'utu,Wallis & Futuna,1.6843593543879954e-06
+Southport,U.S.A.,1.683838839829213e-06
+Teluk Bayur,Indonesia,1.676832505380756e-06
+Bobong,Indonesia,1.675864374231506e-06
+Luenen,Germany,1.6745173699425804e-06
+Namlea,Indonesia,1.6742699757980222e-06
+Cleveland,U.S.A.,1.6701091924500606e-06
+Port Hueneme,U.S.A.,1.668547641672487e-06
+Lindo,Denmark,1.668547641672487e-06
+Khasab,Oman,1.6624717050280503e-06
+Villa Hernandarias,Argentina,1.6545827948692162e-06
+Koln,Germany,1.6491913578302406e-06
+Pendik,Turkiye,1.6414418484459944e-06
+Dong Nai,Vietnam,1.6391830323437325e-06
+Cam Trung,Vietnam,1.627888952031374e-06
+Lirquen,Chile,1.6278889518326397e-06
+Lanzarote,Spain,1.6256301357304862e-06
+Ardfern,U.K.,1.6189000117081695e-06
+Wedel,Germany,1.6188536874238088e-06
+"Lahad Datu, Sabah",Malaysia,1.6188536874238088e-06
+Esquimalt,Canada,1.6188536874238088e-06
+Muhammad Bin Qasim/Karachi,Pakistan,1.6188536874238088e-06
+Dhaka,Bangladesh,1.6165948713216553e-06
+"Lelilef Sawai, Weda",Indonesia,1.6165948713216553e-06
+Marstal,Denmark,1.6165948713216553e-06
+Mongla,Bangladesh,1.6165948713216553e-06
+Soyo,Angola,1.6143360552193934e-06
+Selat Lampa,Indonesia,1.6143360552193934e-06
+Ludinghausen,Germany,1.6143360552193934e-06
+Herbrum,Germany,1.6143360552193934e-06
+Merksem,Belgium,1.6143360552193934e-06
+Ancona,Italy,1.6143360552193934e-06
+Marugame,Japan,1.6143360552193934e-06
+Toyohashi,Japan,1.6143360552193934e-06
+Pagimana,Indonesia,1.6143360552193934e-06
+Newport Beach,U.S.A.,1.6143360552193934e-06
+Lille,France,1.6143360552193934e-06
+"Fukushima, Nagasaki",Japan,1.6143360552193934e-06
+Wenzhou Port,China,1.6143360552193934e-06
+Hazira Port/Surat,India,1.6143360552193934e-06
+Aspra Spitia,Greece,1.6143360552193934e-06
+Oudenaarde,Belgium,1.6143360552193934e-06
+Malahayati,Indonesia,1.6143360552193934e-06
+Conchan,Peru,1.6143360552193934e-06
+Cais do Pico,Portugal,1.6143360552193934e-06
+Naoetsu,Japan,1.6143360552193934e-06
+Maizuru,Japan,1.6143360552193934e-06
+Naantali (Nadendal),Finland,1.6143360552193934e-06
+Dover,Australia,1.6143360552193934e-06
+Perawang,Indonesia,1.6143360552193934e-06
+Niel,Belgium,1.6143360552193934e-06
+Alkmaar,Netherlands,1.6143360552193934e-06
+Basrah Oil Terminal,Iraq,1.6143360552193934e-06
+Vaitape,French Polynesia,1.6143360552193934e-06
+Korsakov,Russia,1.6143360552193934e-06
+Grand Turk Island,Turks & Caicos Islands,1.6143360552193934e-06
+Kyle of Lochalsh,U.K.,1.6143360552193934e-06
+Komodo,Indonesia,1.6143360552193934e-06
+Lakkion,Greece,1.6143360552193934e-06
+Kabil,Indonesia,1.6143360552193934e-06
+Dhamara,India,1.6143360552193934e-06
+Brussel (Bruxelles),Belgium,1.6143360552193934e-06
+Setoda,Japan,1.6143360552193934e-06
+"Provideniya, Bukhta",Russia,1.6143360552193934e-06
+Braunschweig,Germany,1.6143360552193934e-06
+"Jayapura, Irian Jaya",Indonesia,1.6143360552193934e-06
+Katagami,Japan,1.6139907730235463e-06
+Zulte,Belgium,1.6120772391172399e-06
+El Segundo,U.S.A.,1.609818423014978e-06
+Suizhong,China,1.609818423014978e-06
+Sovetskaya Gavan,Russia,1.6076774104586055e-06
+Garongkong,Indonesia,1.6053007908105625e-06
+Sakai,Japan,1.5962655264017316e-06
+Aberdeen,U.K.,1.5925980765766744e-06
+Antofagasta,Chile,1.5917478941973161e-06
+Nauru Island,Nauru,1.5849714458906388e-06
+Sao Goncalo,Brazil,1.5804538136862233e-06
+Ritabel,Indonesia,1.5759374189034314e-06
+Dapitan,Philippines,1.5759361814818079e-06
+"Sendai, Miyagi",Japan,1.5669182059083794e-06
+Port Arthur,U.S.A.,1.5590533097761794e-06
+Ishinomaki,Japan,1.5579409323433785e-06
+Port Nelson,New Zealand,1.5578656526641461e-06
+Takamatsu,Japan,1.5479820558535933e-06
+Waspik,Netherlands,1.5447478207599851e-06
+Toamasina,Madagascar,1.5342951917104606e-06
+Balboa,Colombia,1.5259294180364257e-06
+Kronshtadt,Russia,1.520183236787667e-06
+Cirebon (Tjeribon),Indonesia,1.5080602534079486e-06
+Hamilton,Bermuda,1.5021127079700052e-06
+Muar,Malaysia,1.496877617904375e-06
+Beihai Port,China,1.4913023234350612e-06
+Cristobal,Panama,1.4629953763713134e-06
+Yanbu al-Bahr,Saudi Arabia,1.4454926077390074e-06
+Ahus,Sweden,1.4411246732103154e-06
+Port Botany,Australia,1.439113920042505e-06
+Ferrol,Spain,1.4380049076747259e-06
+Ad Dammam,Saudi Arabia,1.4110426060204816e-06
+Tsukumi,Japan,1.410512593903279e-06
+Songkhla,Thailand,1.3968942915356796e-06
+Duyen Hai,Vietnam,1.3849719623126695e-06
+Talcahuano,Chile,1.3788598090672729e-06
+Malaga,Spain,1.3631955176840406e-06
+Dalian,China,1.360977837334867e-06
+"Waingapu, Sumba",Indonesia,1.3450570484238545e-06
+"Iloilo, Panay",Philippines,1.3349071060601045e-06
+Boulogne-sur-Mer,France,1.33443678138886e-06
+Kloster,Germany,1.3178515614212867e-06
+Kalvag,Norway,1.2852798459917153e-06
+Lipsoi,Greece,1.2831280755353468e-06
+Bata,Equatorial Guinea,1.277722035987743e-06
+Ras Laffan,Qatar,1.2686824561227166e-06
+Salaverry,Peru,1.265713164805106e-06
+"Fukuyama, Hiroshima",Japan,1.2585007733350922e-06
+Salten,Norway,1.2449841417013906e-06
+Kristiansand,Norway,1.2371799432131774e-06
+Stari Grad,Croatia,1.2335317385388678e-06
+Abu Al Fulus,Iraq,1.231028337152634e-06
+Napier,New Zealand,1.229136164006446e-06
+Maputo,Mozambique,1.2263505844225544e-06
+Bossuit,Belgium,1.2208901032447915e-06
+Kualatanjung,Indonesia,1.211524111583112e-06
+Longoni,Mayotte,1.2084327964788236e-06
+Santa Marta,Colombia,1.2023987667999147e-06
+Slano,Croatia,1.2004024357064247e-06
+Zhapu Port,China,1.1812122529292635e-06
+Ikornnes,Norway,1.1697931347728126e-06
+Shimizu,Japan,1.1668431491590882e-06
+Praia da Vitoria,Portugal,1.1651224581183729e-06
+Mina Saqr,United Arab Emirates,1.1586247617606548e-06
+Utrecht,Netherlands,1.1456417820047949e-06
+Kiunga,Papua New Guinea,1.1384969253172214e-06
+Morehead City,U.S.A.,1.1181139705942317e-06
+San Antonio Este,Argentina,1.116679054872019e-06
+New Mangalore,India,1.106389415366448e-06
+Buka,Papua New Guinea,1.1055415769326568e-06
+Wuhan,China,1.0911896167087754e-06
+Ras-Selata,Lebanon,1.0864905451632423e-06
+Antalya,Turkiye,1.0842317290610346e-06
+Abidjan,Ivory Coast,1.0751964646522037e-06
+Eemshaven,Netherlands,1.0661612002433728e-06
+San Francisco,U.S.A.,1.0566858929071253e-06
+Irlam,U.K.,1.0553902173278742e-06
+Lagos,Nigeria,1.0396987443110975e-06
+Tyne,U.K.,1.0159349398210812e-06
+Eleusis,Greece,1.0058769649282963e-06
+Nyhamna,Norway,1.004608461458131e-06
+Palmeira,Cape Verde,9.932482286422264e-07
+Catania,Italy,9.800924264743863e-07
+Halmstad,Sweden,9.62255659541682e-07
+Kazan,Russia,9.419854375406129e-07
+Corigliano Calabro,Italy,9.419263146217855e-07
+Fredrikstad,Norway,9.419263146217855e-07
+St. Lambert Lock,Canada,9.386905590373857e-07
+Newcastle,U.S.A.,9.350618133558428e-07
+Gluckstadt,Germany,9.283734180085256e-07
+Almeria,Spain,9.148337308461599e-07
+Volendam,Netherlands,9.126056423502027e-07
+Talara,Peru,9.07819035684011e-07
+Garrucha,Spain,8.922323603731614e-07
+Subic Bay,Philippines,8.673410975853883e-07
+Port Louis,Mauritius,8.489055148645368e-07
+Halsvik,Norway,8.447972222267315e-07
+Montrose,U.K.,8.447972222267315e-07
+Rasa,Croatia,8.414089980734199e-07
+Kingstown,St. Vincent & Grenadines,8.335031417156929e-07
+Chizhou Port,China,8.329273048137277e-07
+Kamaishi,Japan,8.320065129441907e-07
+Tanjung Wangi,Indonesia,8.272938808545448e-07
+Marsaxlokk,Malta,8.265465259342313e-07
+Waterford,Republic of Ireland,8.244678773068484e-07
+Grave,Netherlands,8.139444759163198e-07
+Vela Luka,Croatia,8.075444969600737e-07
+Roatan,Honduras,8.056578551223631e-07
+Almirante,Panama,7.931599446637188e-07
+Hogset,Norway,7.641009041501153e-07
+Tanjungbalai,Indonesia,7.559236665693526e-07
+Tarragona,Spain,7.476681298316775e-07
+Nasipit/Masao,Philippines,7.457138569090982e-07
+Cork,Republic of Ireland,7.428190787793439e-07
+El Iskandariya (Alexandria),Egypt,7.302012622941584e-07
+Maloy,Norway,7.261687805306549e-07
+Geesthacht,Germany,6.960561698592452e-07
+Hoyanger,Norway,6.800379187734274e-07
+Holla,Norway,6.595743018454815e-07
+Penglai Port,China,6.561950895442119e-07
+Cap-Haitien,Haiti,6.549245697253702e-07
+"Wilmington, NC",U.S.A.,6.534744458908272e-07
+Kepez,Turkiye,6.317155699182213e-07
+Reo,Indonesia,6.317079808045983e-07
+Saleef Port,Yemen,6.290802844656366e-07
+Mali Losinj,Croatia,6.143979798012728e-07
+Norfolk,U.S.A.,6.068887408327319e-07
+Zwijnaarde,Belgium,6.008450831879994e-07
+Hodeidah,Yemen,5.9638889114538e-07
+Helgoland,Germany,5.917527863607077e-07
+"Brodick, Isle of Arran",U.K.,5.895510026769472e-07
+Chennai (ex Madras),India,5.891086750467759e-07
+"Cagayan de Oro, Mindanao",Philippines,5.706666656114714e-07
+Chu Lai,Vietnam,5.625887010226453e-07
+Honiara,Solomon Islands,5.589252210656524e-07
+Husavik - hofn,Iceland,5.565691773453101e-07
+Baltimore,Republic of Ireland,5.526588822450597e-07
+Lorient,France,5.481089986449984e-07
+Ortona,Italy,5.437135533443256e-07
+Frederikshavn,Denmark,5.349975820754908e-07
+"Davao, Mindanao",Philippines,5.251411850615387e-07
+Kiato,Greece,5.24045335712842e-07
+Burela,Spain,5.153665926153585e-07
+Olen,Norway,5.106625845802132e-07
+Mobile,U.S.A.,5.081618772112637e-07
+Seattle,U.S.A.,5.016561680392566e-07
+Pitea,Sweden,5.014571746907376e-07
+"Tagbilaran, Bohol",Philippines,4.873793335829612e-07
+Nizhniy Novgorod (Ex Gorkiy),Russia,4.7325153487251417e-07
+Namibe,Angola,4.662582265110344e-07
+Nacala,Mozambique,4.6531611705537344e-07
+Jizan,Saudi Arabia,4.617315767943572e-07
+Harmac,Canada,4.6069097932058766e-07
+Enkhuizen,Netherlands,4.5856163727731584e-07
+Mekjarvik,Norway,4.585396687487367e-07
+"Gresik, Java",Indonesia,4.519270693012766e-07
+Melilla,Spain,4.4337175164292636e-07
+Tauranga,New Zealand,4.3442298750212376e-07
+Marsa Brega,Libya,4.314338755222102e-07
+Worms,Germany,4.2751110818745833e-07
+Mar del Plata,Argentina,4.2691624331778796e-07
+Bandar Khomeini,Iran,4.262158596985636e-07
+Pozzallo,Italy,4.2239861111336574e-07
+Papetoai,French Polynesia,4.113303155607584e-07
+Cagliari,Italy,4.0884571450010586e-07
+"Pantoloan, Sv",Indonesia,4.0658689839789136e-07
+Ismailia,Egypt,4.0361062443459083e-07
+Maracaibo,Venezuela,3.975516339890537e-07
+Berdiansk,Ukraine,3.975516339890537e-07
+Manaus,Brazil,3.8173992137451854e-07
+Bodrum,Turkiye,3.737023006432163e-07
+Pago Pago,"Samoa, American",3.7164699459974334e-07
+"Naha, Okinawa",Japan,3.676013127897407e-07
+Odda,Norway,3.5707787646172543e-07
+"Kashima, Ibaraki",Japan,3.568491178512485e-07
+"Nagoya, Aichi",Japan,3.5677527678803394e-07
+Falmouth,Antigua & Barbuda,3.5011649584263055e-07
+"Kendari, Sulawesi",Indonesia,3.5011649584263055e-07
+Camden,U.S.A.,3.4903818006050565e-07
+Valparaiso,Chile,3.3430478312716295e-07
+Omaezaki,Japan,3.2750612593540466e-07
+"Ternate, Halmahera",Indonesia,3.273612597206639e-07
+Freetown,Sierra Leone,3.2526951871831173e-07
+Villagarcia de Arosa,Spain,3.23010702616104e-07
+Figueira da Foz,Portugal,3.1623425430947407e-07
+Larymna,Greece,3.132601464415609e-07
+Vila do Conde Port/Barcarena,Brazil,3.049401737984219e-07
+Ghazaouet,Algeria,3.004225415939997e-07
+Kolkata (ex Calcutta),India,2.981637254917852e-07
+Visnes - Eide,Norway,2.9703607180471005e-07
+Spaarndam,Netherlands,2.969956951907112e-07
+Saudarkrokur - hofn,Iceland,2.945470762962053e-07
+Psakhna,Greece,2.9138727718515525e-07
+Soby,Denmark,2.9038848287278205e-07
+Sao Francisco do Sul,Brazil,2.880194955560023e-07
+"Tawau, Sabah",Malaysia,2.812494879551563e-07
+Ban Map Ta Phut,Thailand,2.727746235009295e-07
+"Samarinda, Kalimantan",Indonesia,2.7262747563146515e-07
+Syros (Syra),Greece,2.665403000608432e-07
+Ruse,Bulgaria,2.6577287243764405e-07
+"Bitung, Sulawesi",Indonesia,2.614015614309066e-07
+Dung Quat,Vietnam,2.586751809483041e-07
+Vylkove,Ukraine,2.5750503565199876e-07
+"Toros Gubre Terminal, Gubre",Turkiye,2.563756276008949e-07
+Stornoway,U.K.,2.553312922901066e-07
+Montego Bay,Jamaica,2.5417328190123966e-07
+Beaumont,U.S.A.,2.5298740344757993e-07
+Soma,Japan,2.5128190842605466e-07
+Port Victoria,Seychelles,2.484697712431577e-07
+Braila,Romania,2.383050987832094e-07
+Chaguaramas,Trinidad & Tobago,2.3717569073210555e-07
+Itaqui,Brazil,2.33977270666297e-07
+San Pedro de Macoris,Dominican Republic,2.3265805852768672e-07
+La Goulette Nord (Halqueloued),Tunisia,2.1458752970999784e-07
+Bronka Port,Russia,2.1232871360779012e-07
+Takoradi,Ghana,2.078110814033679e-07
+Piombino,Italy,2.078110814033679e-07
+Guanta,Venezuela,1.9877581699452685e-07
+Bergambacht,Netherlands,1.9585512800396747e-07
+Sidon,Lebanon,1.8522292038126358e-07
+Ezhou,China,1.8468031370507632e-07
+Lavan,Iran,1.839114936165478e-07
+Tanjung Redeb,Indonesia,1.8384449437730202e-07
+Rio de Janeiro,Brazil,1.8070528817684136e-07
+Acapulco,Mexico,1.8070528817684136e-07
+Imabari,Japan,1.8063354239073072e-07
+Matarani,Peru,1.7844647207463363e-07
+Payra,Bangladesh,1.7715495085285718e-07
+Fremantle,Australia,1.6941758336938722e-07
+Fengxian,China,1.6901711956920142e-07
+Pecem Port,Brazil,1.6489357546137036e-07
+Yesilovacik,Turkiye,1.6489357546137036e-07
+Bossaso,Somali Republic,1.6489357546137036e-07
+Puerto Madryn,Argentina,1.6037594325694814e-07
+Santa Cruz,U.S.A.,1.5965684262045192e-07
+Groningen,Netherlands,1.5841341703756666e-07
+Corinto,Nicaragua,1.5811712715473703e-07
+Kiliia,Ukraine,1.5585831105252592e-07
+Oro Bay,Papua New Guinea,1.5472890300142206e-07
+Malabo,Equatorial Guinea,1.535994949503182e-07
+Purmerend,Netherlands,1.4627224937700526e-07
+Kartal,Turkiye,1.4456423054147376e-07
+Tolkamer,Netherlands,1.4392650378397697e-07
+Laizhou Port,China,1.4345572826657133e-07
+Tarjun,Indonesia,1.430583531399997e-07
+Lyttelton,New Zealand,1.426936722089472e-07
+Evyap Port /Kocaeli,Turkiye,1.4230541443926265e-07
+Dili,East Timor,1.4077439011505e-07
+Voudia Milos,Greece,1.3761739162877992e-07
+Kushiro,Japan,1.3561337705868303e-07
+El Guamache,Venezuela,1.3552896613262932e-07
+Lamongan,Indonesia,1.3552896613262932e-07
+Haydarpasa,Turkiye,1.3552896613262932e-07
+Hon La Port,Vietnam,1.354608524178063e-07
+General San Martin,Peru,1.3418439621286707e-07
+Hamina (Fredrikshamn),Finland,1.332701500304216e-07
+Stralsund,Germany,1.2875251782599938e-07
+Binzhou,China,1.272509693149649e-07
+Olviia,Ukraine,1.2197606951936944e-07
+San-Pedro,Ivory Coast,1.2197606951936944e-07
+Port Aransas,U.S.A.,1.2197606951936944e-07
+Latakia,Syria,1.2197606951936944e-07
+Cherbourg-en-Cotentin,France,1.1971725341715833e-07
+Famagusta,Cyprus,1.1971725341715833e-07
+Kavieng,Papua New Guinea,1.1971725341715833e-07
+My Tho,Vietnam,1.1745843731494722e-07
+Kieta,Papua New Guinea,1.1745843731494722e-07
+Ludwigshafen,Germany,1.1703159366514241e-07
+Sheerness,U.K.,1.1609965938835039e-07
+Mogadishu,Somali Republic,1.151996212127378e-07
+Siteia,Greece,1.129408051105267e-07
+Runcorn,U.K.,1.107595993595667e-07
+"Freeport, Bermuda",Bermuda,1.1068198900831559e-07
+La Turballe,France,1.0979858615554569e-07
+Diamante,Argentina,1.0842317290610448e-07
+Nouakchott,Mauritania,1.0842317290610448e-07
+Navegantes,Brazil,1.0842317290610448e-07
+Termini Imerese,Italy,1.0842317290610448e-07
+Sortland,Norway,1.0827041903749713e-07
+Kokas,Indonesia,1.0428201005205247e-07
+El Arish,Egypt,1.0390554070168395e-07
+Landskrona,Sweden,1.0164672459947284e-07
+Mtwara,Tanzania,9.938790849726342e-08
+Shuaiba,Kuwait,9.712909239505231e-08
+Ulsteinvik,Norway,9.588947263361552e-08
+Saint George's,Grenada,9.519834244102091e-08
+La Plata,Argentina,9.48702762928412e-08
+Cardiff,U.K.,9.457936453777784e-08
+Shigei,Japan,9.261146019063179e-08
+Antibes,France,8.878773951551568e-08
+Alexandroupolis,Greece,8.809382798620957e-08
+Paradip Port,India,8.706726164405687e-08
+Balongan Terminal,Indonesia,8.583501188400015e-08
+"Ozamis, Mindanao",Philippines,8.583501188400015e-08
+Marmagao (Marmugao),India,8.357619578179074e-08
+"Fak Fak, Irian Jaya",Indonesia,8.244678773068518e-08
+Lhokseumawe,Indonesia,8.131992761904592e-08
+Kure,Japan,7.988051455782891e-08
+Nerlerit Innat,Greenland,7.905856357736852e-08
+Tibar Bay,East Timor,7.905856357736852e-08
+Chacabuco,Chile,7.824753843299373e-08
+Hansweert/Schore,Netherlands,7.713402634174311e-08
+Majuro,Marshall Islands,7.67997474751591e-08
+"Sungai Pakning, Sumatra",Indonesia,7.375903349141207e-08
+Monrovia,Liberia,7.228211527073688e-08
+Punta Arenas,Chile,7.110167324624484e-08
+"Kaimana, Irian Jaya",Indonesia,6.82857483206725e-08
+Civitavecchia,Italy,6.776448306631466e-08
+Richards Bay,South Africa,6.776448306631466e-08
+"Biak, Irian Jaya",Indonesia,6.738801371594614e-08
+Vanino,Russia,6.618477875431836e-08
+Tual,Indonesia,6.550566696410525e-08
+Jose Terminal,Venezuela,6.325343534084485e-08
+Manggis,Indonesia,6.098803475968472e-08
+Lembar,Indonesia,6.091628897357239e-08
+Elat,Indonesia,5.9180981877915493e-08
+Wellington,New Zealand,5.872921865747361e-08
+Olympia,U.S.A.,5.872921865747361e-08
+Svelvik,Norway,5.647040255526335e-08
+Port Elizabeth,South Africa,5.647040255526335e-08
+Alotau,Papua New Guinea,5.1952770350841975e-08
+Hopa,Turkiye,5.1952770350841975e-08
+Palangga,Indonesia,4.983346101550756e-08
+Al Jubail Commercial Port,Saudi Arabia,4.969395424863171e-08
+Hososhima,Japan,4.969395424863171e-08
+Ishikariwan Shinko,Japan,4.804147636237288e-08
+Monopoli,Italy,4.74351381464206e-08
+"Puerto Princesa, Palawan",Philippines,4.74351381464206e-08
+"Pekanbaru, Sumatra",Indonesia,4.6305730095315894e-08
+Onahama,Japan,4.536187398976276e-08
+Homer,U.S.A.,4.517632204421034e-08
+Prony,New Caledonia,4.517632204421034e-08
+Coronel,Chile,4.2917505942000076e-08
+Aomori,Japan,4.2199073380446244e-08
+Visakhapatnam,India,4.0658689839788966e-08
+Timaru,New Zealand,4.0658689839788966e-08
+Wesel,Germany,3.952928178868426e-08
+Sriracha,Thailand,3.63493344850225e-08
+"Wilmington, DE",U.S.A.,3.614105763536844e-08
+Vasto,Italy,3.614105763536844e-08
+Everett,U.S.A.,3.388224153315733e-08
+Boston,U.S.A.,3.388224153315733e-08
+Ilo,Peru,3.388224153315733e-08
+Adelaide,Australia,3.388224153315733e-08
+Amuay,Venezuela,3.180894218035946e-08
+Unalaska,U.S.A.,3.162342543094749e-08
+Bell Bay,Australia,3.162342543094749e-08
+Pelabuhan Badas,Indonesia,3.1058721405394714e-08
+Huizhou Port,China,2.964747960717065e-08
+Muara,Brunei,2.710579322652612e-08
+Boma,Congo,2.710579322652612e-08
+Bangor,U.K.,2.710579322652612e-08
+Bayah,Indonesia,2.710579322652612e-08
+Kwajalein Port,Marshall Islands,2.710579322652612e-08
+Sakata,Japan,2.6950018839187383e-08
+Palamos,Spain,2.5976385175420987e-08
+Dobo,Indonesia,2.5863444370310517e-08
+Bahia Las Minas,Panama,2.4846977124315856e-08
+Hambantota,Sri Lanka,2.4846977124315856e-08
+Kodiak,U.S.A.,2.4846977124315856e-08
+Tinian,Northern Marianas,2.4846977124315856e-08
+Hakodate,Japan,2.4846977124315856e-08
+El Palito,Venezuela,2.4140417610932552e-08
+Vung Tau,Vietnam,2.324949622017184e-08
+Gulfport,U.S.A.,2.258816102210517e-08
+Three Rivers,Canada,2.258816102210517e-08
+Inebolu,Turkiye,2.258816102210517e-08
+Port of Roatan,Honduras,2.258816102210517e-08
+Hohenwarthe,Germany,2.258816102210517e-08
+Alameda,U.S.A.,2.258816102210517e-08
+Gangavaram,India,2.0611696932671295e-08
+Reggio di Calabria,Italy,2.0329344919894483e-08
+Krishnapatnam,India,2.0329344919894483e-08
+"Kota Kinabalu, Sabah",Malaysia,2.0329344919894483e-08
+Iquique,Chile,2.0329344919894483e-08
+Christianso Havn,Denmark,2.0329344919894483e-08
+Pemba,Mozambique,2.0329344919894483e-08
+Pente,Germany,2.0329344919894483e-08
+Guaymas,Mexico,2.0329344919894483e-08
+Vat Cach,Vietnam,2.0329344919894483e-08
+Piru,Indonesia,1.9199936868789775e-08
+Stockholm,Sweden,1.807052881768422e-08
+Nynashamn,Sweden,1.807052881768422e-08
+Wintham,Belgium,1.7434039252566542e-08
+Bruinisse,Netherlands,1.59972294648855e-08
+Zierikzee,Netherlands,1.585809190282663e-08
+Khalifa Bin Salman Port,Bahrain,1.5811712715473746e-08
+Asnaesvaerkets Havn,Denmark,1.5811712715473746e-08
+"Freeport, TX",U.S.A.,1.5370924381010535e-08
+Tolitoli,Indonesia,1.4682304664368403e-08
+Brighton,U.K.,1.355289661326306e-08
+Narvik,Norway,1.355289661326306e-08
+Melaka,Malaysia,1.355289661326306e-08
+Drepano Riou,Greece,1.355289661326306e-08
+Matanzas,Cuba,1.355289661326306e-08
+Itea,Greece,1.355289661326306e-08
+Mukalla,Yemen,1.355289661326306e-08
+Paulsboro,U.S.A.,1.355289661326306e-08
+Coquimbo,Chile,1.355289661326306e-08
+Beira,Mozambique,1.355289661326306e-08
+Makarska,Croatia,1.2799957912526235e-08
+Koror,Palau,1.1294080511052585e-08
+Trondheim,Norway,1.1294080511052585e-08
+Golfito,Costa Rica,1.1294080511052585e-08
+Hitachinaka,Japan,1.1294080511052585e-08
+"Miri, Sarawak",Malaysia,1.1294080511052585e-08
+Sainte-Catherine,Canada,1.0834509940013127e-08
+East London,South Africa,9.03526440884211e-09
+Izegem,Belgium,9.03526440884211e-09
+Puerto Caldera,Costa Rica,9.03526440884211e-09
+"Mutsamudu, Anjouan",Comoros,9.03526440884211e-09
+Hardinxveld,Netherlands,9.03526440884211e-09
+Saint-John,Canada,9.03526440884211e-09
+Vinh Tan,Vietnam,9.03526440884211e-09
+Hellevoetsluis,Netherlands,7.905856357736873e-09
+Orsoy,Germany,6.77644830663153e-09
+Bahia Blanca,Argentina,6.77644830663153e-09
+Umm Sa'id (Mesaieed),Qatar,6.77644830663153e-09
+Tilamuta,Indonesia,6.77644830663153e-09
+Wallhamn,Sweden,6.77644830663153e-09
+Trincomalee,Sri Lanka,6.77644830663153e-09
+Kollafjordur,Faroe Islands,6.77644830663153e-09
+Reunion,Reunion,6.77644830663153e-09
+Kolguyev Island,Russia,5.030999500378e-09
+Schmedehausen,Germany,4.517632204421055e-09
+Dampier,Australia,4.517632204421055e-09
+Lerwick,U.K.,4.517632204421055e-09
+Agio Theodoroi,Greece,4.517632204421055e-09
+Rosario,Argentina,4.517632204421055e-09
+Praia da Graciosa,Portugal,4.517632204421055e-09
+Antsiranana,Madagascar,4.517632204421055e-09
+"Sepanggar, Sabah",Malaysia,4.517632204421055e-09
+Jask,Iran,4.517632204421055e-09
+Palermo,Italy,4.517632204421055e-09
+Kamarajar/Ennore,India,4.517632204421055e-09
+Koge,Denmark,4.517632204421055e-09
+Dar es Salaam,Tanzania,4.517632204421055e-09
+Sillamae,Estonia,4.517632204421055e-09
+Labuan Bajo,Indonesia,3.76469350368423e-09
+La Salina/Maracaibo L,Venezuela,3.76469350368423e-09
+Wemeldinge,Netherlands,2.2897355604459083e-09
+Kats,Netherlands,2.2897355604459083e-09
+Tholen,Netherlands,2.2588161022105275e-09
+Jinhae,South Korea,2.2588161022105275e-09
+Batangas/Luzon,Philippines,2.2588161022105275e-09
+AcuPort/Sao Joao da Barra,Brazil,2.2588161022105275e-09
+Kakinada,India,2.2588161022105275e-09
+Iwakuni,Japan,2.2588161022105275e-09
+Meppel,Netherlands,2.2588161022105275e-09
+Vieux-Fort,St. Lucia,2.2588161022105275e-09
+Changzhou Port,China,2.2588161022105275e-09
+Bad Bevensen,Germany,1.1294080511052638e-09
+Panjin,China,2.4489246240827614e-11
+El Tablazo/Maracaibo L,Venezuela,1.3168957902022419e-11
+Dorsten,Germany,9.0232334309342e-12
+Cigading,Indonesia,6.9460928191420765e-12
+"Sandakan, Sabah",Malaysia,6.404789712986562e-12
+Bildudalur - hofn,Iceland,0.0
+New Orleans,U.S.A.,0.0
+Zarate,Argentina,0.0
+Gabert Island Port,Micronesia,0.0
+Luderitz,Namibia,0.0
+Tahuna,Indonesia,0.0
+Tangkiang,Indonesia,0.0
+Wolgast,Germany,0.0
+Menzel Bourguiba,Tunisia,0.0
+Waltrop,Germany,0.0
+Crinan,U.K.,0.0
+Lusi,China,0.0
+Kilkeel,U.K.,0.0
+Chiba,Japan,0.0
+Troon,U.K.,0.0
+Funafuti,Tuvalu,0.0
+Zarubino,Russia,0.0
+Gwadar,Pakistan,0.0
+Yap,Micronesia,0.0
+Gosung,South Korea,0.0
+Daesan/Seosan,South Korea,0.0
+Anyer,Indonesia,0.0
+Apatin,Serbia,0.0
+Beddingen,Germany,0.0
+Dortmund,Germany,0.0
+Port of Greater Baton Rouge,U.S.A.,0.0
+Thyboron,Denmark,0.0
+Wieringen/Den Oever,Netherlands,0.0
+Squamish,Canada,0.0
+Laboe,Germany,0.0
+Saizaki,Japan,0.0
+Huangshi Port,China,0.0
+Ouzai,Lebanon,0.0
+Texas City,U.S.A.,0.0
+Lauterbach,Germany,0.0
+Misburg,Germany,0.0
+Khor al Zubair,Iraq,0.0
+Hanau,Germany,0.0
+Rupelmonde,Belgium,0.0
+As Suways (Suez),Egypt,0.0
+Tiel,Netherlands,0.0
+Hamada,Japan,0.0
+Nuku'alofa,Tonga,0.0
+Hundested,Denmark,0.0
+Kolding,Denmark,0.0
+Argentia,Canada,0.0
+Saint-Anthony,Canada,0.0
+Olkiluoto,Finland,0.0
+Arkhangelsk,Russia,0.0
+Giurgiu,Romania,0.0
+Shuidong Port,China,0.0
+Lopud,Croatia,0.0
+Glewitz,Germany,0.0
+Mina Saud,Kuwait,0.0
+Puerto Madero,Mexico,0.0
+"Merak, Java",Indonesia,0.0
+Lomonosov,Russia,0.0
+Linz,Austria,0.0
+San Fernando,Spain,0.0
+Port Walcott,Australia,0.0
+Kochi,Japan,0.0
+Villefranche,France,0.0
+Kawasaki,Japan,0.0
+Port Harcourt,Nigeria,0.0
+Lobam,Indonesia,0.0
+Guaiba Island Terminal,Brazil,0.0
+Fukui,Japan,0.0
+Gandia,Spain,0.0
+Thorlakshofn,Iceland,0.0
+Kribi Deep Sea Port,Cameroon,0.0
+Lekki,Nigeria,0.0
+Quebec,Canada,0.0
+Poso,Indonesia,0.0
+Akita,Japan,0.0
+Runthe,Germany,0.0
+Bergum,Netherlands,0.0
+Oban,U.K.,0.0
+Gourock,U.K.,0.0
+Wanssum,Netherlands,0.0
+Hunterston,U.K.,0.0
+Greifswald,Germany,0.0
+Gromitz,Germany,0.0
+Massawa (Mitsiwa),Eritrea,0.0
+Vestmannaeyjar - hofn,Iceland,0.0
+Martinez,U.S.A.,0.0
+Pohnpei (ex Ponape),Micronesia,0.0
+Saipan,Northern Marianas,0.0
+Whitehaven,U.K.,0.0
+Herne,Germany,0.0
+Omoa,French Polynesia,0.0
+Pascagoula,U.S.A.,0.0
+Ponce,Puerto Rico,0.0
+Kirkwall,U.K.,0.0
+Kismayu,Somali Republic,0.0
+Kneza,Croatia,0.0
+Lu-hua Shan,China,0.0
+OnomichiItozaki,Japan,0.0
+Nunukan,Indonesia,0.0
+Dusseldorf,Germany,0.0
+Liaoluo Port,China,0.0
+"Yura, Wakayama",Japan,0.0
+Karatsu,Japan,0.0
+Mainz,Germany,0.0
+"Lalang Terminal, St",Indonesia,0.0
+Kattupalli Port,India,0.0
+Riesenbeck,Germany,0.0
+Jose Ignacio Terminal,Uruguay,0.0
+Puerto La Cruz,Venezuela,0.0
+Kagoshima,Japan,0.0
+Kalabahi,Indonesia,0.0
+Nanao,Japan,0.0
+Otaru,Japan,0.0
+"Kanda, Fukuoka",Japan,0.0
+Saiki,Japan,0.0
+Mumbai (ex Bombay),India,0.0
+Okha,India,0.0
+Lamu,Kenya,0.0
+Ruwais Port,United Arab Emirates,0.0
+Keizersveer,Netherlands,0.0
+Tanga,Japan,0.0
+Tateyama,Japan,0.0
+Tvoroyri,Faroe Islands,0.0
+Tiran,Spain,0.0
+Weda,Indonesia,0.0
+Trier,Germany,0.0
+Valldal,Norway,0.0
+Wuxue Port,China,0.0
+Norddeich,Germany,0.0
+Suooshima,Japan,0.0
+Tafjord,Norway,0.0
+Taishan,China,0.0
+Stromness,U.K.,0.0
+Saijo,Japan,0.0
+Orth,Germany,0.0
+Brownsville,U.S.A.,0.0
+Tanjung Manis,Malaysia,0.0
+Biringkassi,Indonesia,0.0
+Ingelmunster,Belgium,0.0
+Puerto Chico,Spain,0.0
+Raamsdonksveer,Netherlands,0.0
+Ras Al-Khair,Saudi Arabia,0.0
+Yoshiumi,Japan,0.0
+Mangalia,Romania,0.0
+Pare Pare,Indonesia,0.0
+Sint-Jozef-Olen,Belgium,0.0
+Trogir,Croatia,0.0
+Randers,Denmark,0.0
+Ketapang,Indonesia,0.0
+Breskens,Netherlands,0.0
+"Iwagi,Ehime",Japan,0.0
+Kalamaki,Greece,0.0
+Torre Annunziata,Italy,0.0
+Tuy Hoa,Vietnam,0.0
+Hukou,China,0.0
+Husnes,Norway,0.0
+Hvide Sande,Denmark,0.0
+Illikhoven,Netherlands,0.0
+Maniitsoq (Sukkertoppen),Greenland,0.0
+Ile Saint-Honorat,France,0.0
+Fiskarstrand,Norway,0.0
+Santa Cruz de la Palma,Spain,0.0
+Puerto de Granadilla,Spain,0.0
+Port Vila,Vanuatu,0.0
+Marsa Bashayer,Sudan,0.0
+Leba,Poland,0.0
+Lekkerkerk,Netherlands,0.0
+Overschild,Netherlands,0.0
+Terhorne,Netherlands,0.0
+Les Sables-d'Olonne,France,0.0
+Hengelo,Netherlands,0.0
+Leer,Germany,0.0
+Neustadt in Holstein,Germany,0.0
+Uusikaupunki (Nystad),Finland,0.0
+Benty,Guinea,0.0
+Hirtshals,Denmark,0.0
+Hobart,Australia,0.0
+Kahului,U.S.A.,0.0
+Velas,Portugal,0.0
+San Jose,Philippines,0.0
+Jieyang,China,0.0
+Sanshan Port,China,0.0
+Grobbendonk,Belgium,0.0
+Hemiksem,Belgium,0.0
+Hoboken,U.S.A.,0.0
+Kroslin,Germany,0.0
+Kudamatsu,Japan,0.0
+Muros,Spain,0.0
+La Habana,Cuba,0.0
+Tanjung Merangas,Indonesia,0.0
+Ladysmith,Canada,0.0
+Putput,Papua New Guinea,0.0
+Bar,Montenegro,0.0
+Kusadasi,Turkiye,0.0
+Iraklion (Heraklion),Greece,0.0
+Okpo/Geoje,South Korea,0.0
+Renory,Belgium,0.0
+Ruisbroek,Belgium,0.0
+Peterhead,U.K.,0.0
+Indian Island,U.S.A.,0.0
+Innoshima,Japan,0.0
+Bonny,Nigeria,0.0
+Butzfleth,Germany,0.0
+Wewelsfleth,Germany,0.0
+Kapelle-op-den-Bos,Belgium,0.0
+Imbituba,Brazil,0.0
+Elsfleth,Germany,0.0
+Wolfsburg,Germany,0.0
+Port-Vendres,France,0.0
+Amchit,Lebanon,0.0
+Anggrek,Indonesia,0.0
+Alang Ship Recycling Facility,,0.0
+Sei Raya,Indonesia,0.0
+Glasgow,U.K.,0.0
+Muroran,Japan,0.0
+Calaca,Philippines,0.0
+Eten,Peru,0.0
+Cam Ranh,Vietnam,0.0
+Weihai Port,China,0.0
+Pelabuhan Futong Terminal,Indonesia,0.0
+Plastun,Russia,0.0
+Road Town,"Virgin Islands, British",0.0
+San Andres,Colombia,0.0
+Sao Tome,Sao Tome & Principe,0.0
+Buatan,Indonesia,0.0
+Farsund,Norway,0.0
+Giresun,Turkiye,0.0
+Port Blair,India,0.0
+Narayanganj,Bangladesh,0.0
+Kellen,Netherlands,0.0
+Kelsterbach,Germany,0.0
+Le Treport,France,0.0
+Paldiski,Estonia,0.0
+Podyapolskiy,Russia,0.0
+Niigata,Japan,0.0
+Navashino,Russia,0.0
+Verbrande-Brug,Belgium,0.0
+Nieuw Lekkerland,Netherlands,0.0
+Ningbo Port,China,0.0
+Mazatlan,Mexico,0.0
+Batu Pahat,Malaysia,0.0
+Milazzo,Italy,0.0
+Rak Maritime City,United Arab Emirates,0.0
+Miyazu,Japan,0.0
+Sakaide,Japan,0.0
+Monbetsu/Abashiri,Japan,0.0
+Motzen,Germany,0.0
+Sur,Oman,0.0
+Anamur,Turkiye,0.0
+Culasi,Philippines,0.0
+Thien Chanh,Vietnam,0.0
+Thinh Long,Vietnam,0.0
+Dandong,China,0.0
+Darica,Turkiye,0.0
+Itacoatiara,Brazil,0.0
+Jaigad,India,0.0
+Howth,Republic of Ireland,0.0
+Conflans,France,0.0
+Corner Brook,Canada,0.0
+Covenas,Colombia,0.0
+Majahual,Mexico,0.0
+Crofton,Canada,0.0
+Cua Dai,Vietnam,0.0
+Vung Ang,Vietnam,0.0
+Duluth,U.S.A.,0.0
+Midia,Romania,0.0
+Basamuk,Papua New Guinea,0.0
+Askvoll,Norway,0.0
+Zueitina,Libya,0.0
+Basuo Port,China,0.0
+Port Gentil,Gabon,0.0
+Molde,Norway,0.0
+Moni,Cyprus,0.0
+Caracas Baai,Curacao,0.0
+Turbo,Colombia,0.0
+Solvesborg,Sweden,0.0
+Cayirova,Turkiye,0.0
+Rhodes,Greece,0.0
+Sandnes,Norway,0.0
+Road Bay,Anguilla,0.0
+Saint Quay Portrieux,France,0.0
+Saint-Tropez,France,0.0
+Sungai Udang,Malaysia,0.0
+Soderhamn,Sweden,0.0
+Uddevalla,Sweden,0.0
+Skjervoy,Norway,0.0
+Anjeong,South Korea,0.0
+Siglufjordur - hofn,Iceland,0.0
+"Sibolga, Sumatra",Indonesia,0.0
+Sheyang,China,0.0
+Speyer,Germany,0.0
+Ras Gharib,Egypt,0.0
+Siak Sri Indrapura,Indonesia,0.0
+Kopmanholmen,Sweden,0.0
+Puerto Rosario,Spain,0.0
+Magadan,Russia,0.0
+Sarfannguaq,Greenland,0.0
+Gohyeon/Geoje,South Korea,0.0
+Tangier,Canada,0.0
+Sulina (Port et Zone Franche),Romania,0.0
+Amber Cove,Dominican Republic,0.0
+Walsum,Germany,0.0
+Saint-Pierre,Martinique,0.0
+Zhangjiabu,China,0.0
+"Surigao, Mindanao",Philippines,0.0
+"Mina Sultan Qaboos, Muscat",Oman,0.0
+Chan May,Vietnam,0.0
+Changjiangkou,China,0.0
+Half Moon Cay,Bahamas,0.0
+Oranjestad,Aruba,0.0
+Port Pipavav,India,0.0
+Bluff,New Zealand,0.0
+Esperance,Australia,0.0
+Camarinas,Spain,0.0
+Porto Santo,Portugal,0.0
+Caojing,China,0.0
+Ehoala,Madagascar,0.0
+Samalaju,Malaysia,0.0
+Port Weller,Canada,0.0
+Tartus,Syria,0.0
+Pulau Laut,Indonesia,0.0
+Sibenik,Croatia,0.0
+Pituffik,Greenland,0.0
+Sydals,Denmark,0.0
+Ornskoldsvik,Sweden,0.0
+"Oshima, Nagasaki",Japan,0.0
+Puntarenas,Costa Rica,0.0
+Slavyanka,Russia,0.0
+Fuzhou New Port,China,0.0
+Prince Rupert,Canada,0.0
+Shijing,China,0.0
+Dhuba,Saudi Arabia,0.0
+Shuwaikh,Kuwait,0.0
+Fao,Iraq,0.0
+Ajman,United Arab Emirates,0.0
+Umm al Qaiwain,United Arab Emirates,0.0
+Masan,South Korea,0.0
+"Miike, Fukuoka",Japan,0.0
+Mokpo,South Korea,0.0
+Nagasaki,Japan,0.0
+Okgye/Gangneung,South Korea,0.0
+Tongyeong,South Korea,0.0
+Port Canaveral,U.S.A.,0.0
+Schilde,Belgium,0.0
+Vianen,Netherlands,0.0
+Wageningen,Suriname,0.0
+Sydney,Australia,0.0
+Avalon,U.S.A.,0.0
+Aalst,Belgium,0.0
+Norderney,Germany,0.0
+Port Angeles,U.S.A.,0.0
+Gavere,Belgium,0.0
+Hollain,Belgium,0.0
+Khalde,Lebanon,0.0
+Az Zawiyah,Libya,0.0
+Azov,Russia,0.0
+Dundee,U.K.,0.0
+Fonnes,Norway,0.0
+Saldanha Bay,South Africa,0.0
+Gloucester City,U.S.A.,0.0
+Puerto de la Savina,Spain,0.0
+Savona,Italy,0.0
+Balamban,Philippines,0.0
+Sunndalsora,Norway,0.0
+Rafnes,Norway,0.0
+Flotta,U.K.,0.0
+Nieuw Nickerie,Suriname,0.0
+Fortune,Canada,0.0
+Fraserburgh,U.K.,0.0
+Frederiksvaerk,Denmark,0.0
+Puerto Castilla,Honduras,0.0
+Ashuganj,Bangladesh,0.0
+Asike,Indonesia,0.0
+Assens,Denmark,0.0
+Asuncion,Paraguay,0.0
+Picton,Canada,0.0
+Faaborg,Denmark,0.0
+Falkenberg,Sweden,0.0
+Ain Sukhna,Egypt,0.0
+Wijnegem,Belgium,0.0
+Fernandina Beach,U.S.A.,0.0
+Fethiye,Turkiye,0.0
+Finnart,U.K.,0.0
+Mossel Bay,South Africa,0.0
+Ngqura (Coega),South Africa,0.0
+Tongling Port,China,0.0
+Roermond,Netherlands,0.0
+"Mariveles, Luzon",Philippines,0.0
+Pointe a Pierre,Trinidad & Tobago,0.0
+"Loyang, Singapore",Singapore,0.0
+Nudao,China,0.0
+Bermeo,Spain,0.0
+Bethune,France,0.0
+Aiambak,Papua New Guinea,0.0
+Posyet,Russia,0.0
+Palu,Indonesia,0.0
+Wini,Indonesia,0.0
+Tsingeli,Greece,0.0
+"Sibu, Sarawak",Malaysia,0.0
+Victoria,U.S.A.,0.0
+"Manokwari, Irian Jaya",Indonesia,0.0
+Glyfada,Greece,0.0
+Blyth,U.K.,0.0
+Tomakomai,Japan,0.0
+Bellingham,U.S.A.,0.0
+"Bengkulu, Sumatra",Indonesia,0.0
+La Ametlla de Mar,Spain,0.0
+Benicia,U.S.A.,0.0
+Tsuneishi,Japan,0.0
+Ensenada,Mexico,0.0
+Ouistreham,France,0.0
+Nigtevecht,Netherlands,0.0
+Polloc,Philippines,0.0
+Dawai,Indonesia,0.0
+Natal,Brazil,0.0
+Delden,Netherlands,0.0
+Meppen,Germany,0.0
+Wartena,Netherlands,0.0
+Waterhuizen,Netherlands,0.0
+Makkum,Netherlands,0.0
+Oudeschild,Netherlands,0.0
+Scheveningen,Netherlands,0.0
+Diego Garcia,British Indian Ocean Territory,0.0
+Sidi Kerir Terminal,Egypt,0.0
+"Villa San Giovanni, Calabria",Italy,0.0
+Yokkaichi,Japan,0.0
+Esmeraldas,Ecuador,0.0
+Manta,Ecuador,0.0
+Staten Island,U.S.A.,0.0
+Bahezhen,China,0.0
+Oberhausen,Germany,0.0
+Schwelgern,Germany,0.0
+Magallanes,Philippines,0.0
+Doumen Port,China,0.0
+Donghae,South Korea,0.0
+Dongshan Port,China,0.0
+Dongying Port,China,0.0
+Kinderdijk,Netherlands,0.0
+Macau,Brazil,0.0
+Druten,Netherlands,0.0
+Handil,Indonesia,0.0
+Punta Cardon,Venezuela,0.0
+Anadyr,Russia,0.0
+Egvekinot,Russia,0.0
+Anchorage,U.S.A.,0.0
+Nuevitas,Cuba,0.0
+Mers el Kebir,Algeria,0.0
+Marken,Netherlands,0.0
+Marmara Ereglisi,Turkiye,0.0
+Marsa el Hariga,Libya,0.0
+Vavouto,New Caledonia,0.0
+Tadotsu,Japan,0.0
+Santa Rosalia,Mexico,0.0
+Donsak,,0.0
+Nosco Shipyard,Vietnam,0.0
+Donggala,Indonesia,0.0
+Baie Comeau,Canada,0.0
+Saketa,Indonesia,-1.1537161862899814e-09
+Koblenz am Rhein,Germany,-2.765793302052905e-09
+Puttershoek,Netherlands,-4.920172783488174e-09
+Parigi,Indonesia,-7.930164492923311e-09
+Millingen aan de Rijn,Netherlands,-1.1450396966830373e-08
+Kemen,China,-1.2220325714147454e-08
+"Maumere, Flores",Indonesia,-2.1132577466107417e-08
+Taixing,China,-2.1737807056408762e-08
+San Diego,U.S.A.,-2.2547078018379015e-08
+Longkou Port,China,-2.394246880186385e-08
+Yangjiang Port,China,-2.394246880186385e-08
+Himeji,Japan,-2.5170844855844523e-08
+Agotnes,Norway,-3.2341848185733855e-08
+Kamal,Indonesia,-3.270557944980894e-08
+Anqing Port,China,-3.403278089967342e-08
+Galveston,U.S.A.,-4.411865977921881e-08
+Pengze,China,-6.17880416495863e-08
+Nishinoomote,Japan,-6.313086068790871e-08
+Puerto Montt,Chile,-6.563298633028257e-08
+Maanshan Port,China,-6.568177622528538e-08
+Svetly,Russia,-7.299957313183477e-08
+Lobito,Angola,-7.977602143851214e-08
+Male,Maldives,-8.02597174145864e-08
+Kaiwatu,Indonesia,-8.73639599989945e-08
+Milner Bay,Australia,-1.1002553091648104e-07
+Pevek,Russia,-1.1968608368548292e-07
+Terempa,Indonesia,-1.1999664908806828e-07
+Pohang,South Korea,-1.2052226150744994e-07
+"Probolinggo, Java",Indonesia,-1.2452186876602987e-07
+Eivissa (Ibiza),Spain,-1.5686918981978567e-07
+Sarroch (Porto Foxi),Italy,-1.659044714446764e-07
+"Ambon, Molucas",Indonesia,-1.7964762591184813e-07
+Benete,Indonesia,-1.9771815472953362e-07
+Rahja,Finland,-2.0795457297558917e-07
+Zwartsluis,Netherlands,-2.2390304092678671e-07
+Ardglass,U.K.,-2.2513911226973698e-07
+Puerto Deseado,Argentina,-2.2725124515972372e-07
+Zadar,Croatia,-2.3676374054213854e-07
+Qeqertarsuatsiaat,Greenland,-2.399808707286564e-07
+Ciwandan,Indonesia,-2.4375805598140805e-07
+Huangqizhen,China,-2.4487676650475517e-07
+Uummannaq,Greenland,-2.5478913420340506e-07
+Portocel,Brazil,-2.695165740241234e-07
+Kvinesdal,Norway,-2.8441411604687326e-07
+Nalunaq Gold Mine,Greenland,-2.996584543195704e-07
+Banjarmasin,Indonesia,-3.57117909594723e-07
+Usuki,Japan,-4.031292904278674e-07
+Parana,Argentina,-4.2763370117888076e-07
+Changxing Dao,China,-4.2783657720564475e-07
+Pula,Croatia,-4.3109705991821803e-07
+Lelystad,Netherlands,-4.3199436913809227e-07
+Kaveh,Iran,-4.43445413894389e-07
+Villa Oliva,Paraguay,-4.728100232230894e-07
+Muara Pantai,Indonesia,-4.793861007073885e-07
+Dana Point,U.S.A.,-5.17199631768396e-07
+Tarahan,Indonesia,-5.205001207554898e-07
+Warcoing,Belgium,-5.350647827637829e-07
+Zelzate,Belgium,-5.350647827637829e-07
+Itilleq,Greenland,-5.620019702175943e-07
+Bailat,Philippines,-5.717674570037009e-07
+Kish Island,Iran,-6.057893917373459e-07
+Swansea,U.K.,-6.249610421362383e-07
+Puerto Barrios,Guatemala,-6.377035986845241e-07
+Port Mellon,Canada,-6.95546995444449e-07
+Kinwan,Japan,-7.581272069816106e-07
+Jawaharlal Nehru (Nhava Sheva),India,-7.743245173203947e-07
+Salina Cruz,Mexico,-7.789112909681404e-07
+Mina Zayed/Abu Dhabi,United Arab Emirates,-8.146166633520783e-07
+Howrah,India,-8.628012782285754e-07
+Port Alma,Australia,-8.690500187693401e-07
+Macun,China,-8.740741115859601e-07
+Ningde,China,-9.051170252455517e-07
+Tema,Ghana,-9.67617342623791e-07
+La Libertad,Ecuador,-9.894653852852812e-07
+Tsu,Japan,-1.0619305511833957e-06
+Kampen,Netherlands,-1.0772369946777108e-06
+"Kuching, Sarawak",Malaysia,-1.2066382732970916e-06
+Wewak,Papua New Guinea,-1.2200390130438485e-06
+Imari,Japan,-1.2269676182169882e-06
+Upernavik,Greenland,-1.2270780585228822e-06
+"Merauke, Irian Jaya",Indonesia,-1.247741935994748e-06
+Cartagena,Spain,-1.435383786323565e-06
+Misurata (Qasr Ahmed),Libya,-1.4766592831066613e-06
+Matsuyama,Japan,-1.5499783208330922e-06
+Bissau,Guinea-Bissau,-1.5573287354285936e-06
+"Nagasu, Kumamoto",Japan,-1.6200016200016198e-06
+Philadelphia,U.S.A.,-1.6732990357619143e-06
+Fortaleza,Brazil,-1.677032258303509e-06
+"Panjang (Lampung, Sumatra)",Indonesia,-1.776643363901614e-06
+Obi Island,Indonesia,-1.7905285086834265e-06
+Sorong,Indonesia,-1.973547719486251e-06
+Dalvik,Iceland,-2.1281288004801596e-06
+Yatsushiro,Japan,-2.187286420138215e-06
+Port of Brisbane,Australia,-2.2200699439243934e-06
+Penang,Malaysia,-2.3373909698117977e-06
+Cochin,India,-3.2110737365228354e-06
+Lae,Papua New Guinea,-3.5166440571561975e-06
+Rabaul,Papua New Guinea,-3.6610510731235383e-06
+Sasebo,Japan,-3.7862961862873974e-06
+Shimonoseki,Japan,-4.345504723961627e-06
+Sembilangan,Indonesia,-4.485567180990795e-06
+Longhai,China,-4.576351487619234e-06
+Serui,Indonesia,-4.634148087657476e-06
+Niihama,Japan,-4.8551288986721654e-06
+"Dumai, Sumatra",Indonesia,-4.954034017193732e-06
+Bojonegara,Indonesia,-5.159208507341827e-06
+Sarmi,Indonesia,-5.744595246116521e-06
+Santos,Brazil,-5.858534641521888e-06
+Haina,Dominican Republic,-6.517493418789488e-06
+Luoyuanwan,China,-6.750006750006749e-06
+Auckland,New Zealand,-7.040354159904569e-06
+Murmansk,Russia,-7.471835207615088e-06
+Gulluk,Turkiye,-7.675939534657061e-06
+Annaba,Algeria,-7.913697451760642e-06
+Port Klang (Pelabuhan Klang),Malaysia,-8.441635570111822e-06
+Ust-Luga,Russia,-8.809276971466842e-06
+"Palembang, Sumatra",Indonesia,-9.951684973869088e-06
+Nichinan,Japan,-1.126321159253618e-05
+Puerto Quetzal,Guatemala,-1.152003554763829e-05
+Ulsan,South Korea,-1.1667027261578772e-05
+Porto Empedocle,Italy,-1.293090298941672e-05
+Tianjiazhen,China,-1.4768145076841563e-05
+Mersin,Turkiye,-1.7738467259512114e-05
+Moji/Kitakyushu,Japan,-1.814658074007075e-05
+Jebel Ali,United Arab Emirates,-1.889925517162272e-05
+Chornomorsk,Ukraine,-2.0019318783369086e-05
+"Pangkal Balam, Banka",Indonesia,-2.1779092104648326e-05
+Ashdod,Israel,-2.45449539584483e-05
+Barcelona,Spain,-2.7801299620270475e-05
+Dam Mon,Vietnam,-3.502421594870275e-05
+General Santos,Philippines,-3.549791565110767e-05
+Laem Chabang,Thailand,-3.822349935906494e-05
+Busan,South Korea,-4.312495811432948e-05
+Osaka,Japan,-4.684420496602862e-05
+Port Sudan,Sudan,-4.8448978685812494e-05
+Singapore,Singapore,-4.9386269008933406e-05
+Hamriya Free Zone Port,United Arab Emirates,-5.622200296412361e-05
+Amagasaki,Japan,-5.72944325580593e-05
+Yantai Port,China,-5.978640417435982e-05
+Bandar Abbas,Iran,-6.78507452971204e-05
+Yangzhou Port,China,-7.982501183944127e-05
+Pingtan,China,-0.00011727934816771479
+Zhuhai Port,China,-0.00012682897813849972
+Mizushima,Japan,-0.0001269987428233637
+Nanjing,China,-0.00015456191084814094
+Kumamoto,Japan,-0.0001718337267005432
+Bandar Deylam,Iran,-0.0002712053082051247
+Otake,Japan,-0.0003729658492047927
+Xinhui Port,China,-0.00047774409822889247
+Tianjin Xingang Port,China,-0.0004826613229391846
+Yeosu,South Korea,-0.0005151786227383861
+Quanzhou Port,China,-0.0005184005184005184
+Shibushi,Japan,-0.0010118824786667128
+Longyan Port,China,-0.0010139533831235066
+Zhenjiang Port,China,-0.0014221635495595825
+Jinzhou Port,China,-0.002132306898037173
+Dongjiakou,China,-0.0032624417926523652
+Shanwei Port,China,-0.006175092467969101
+Onomichi,Japan,-0.00861355528298266
+Gunsan,South Korea,-0.008810362829088175
+Rugao Port,China,-0.010822013442505524
+Gaolan,China,-0.014011725434347144
+Incheon,South Korea,-0.018874471689087624
+Antwerpen,Belgium,-0.0377327936082672
+Dongguan Port,China,-0.06949158284183543
+Jingjiang Port,China,-0.27499402751720936
+Haikou Port,China,-0.28011477205325486
+Dafeng Port,China,-0.38764179958769773
+Nakhodka,Russia,-0.5688467863514468
+Rongcheng,China,-0.6493835371099941
+Zhangzhou Port,China,-0.6613882128843586
+Shidao Port,China,-15.515063440572703
